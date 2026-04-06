@@ -177,7 +177,7 @@ def load_responses(path, verbal_questions, quant_questions):
     # Split verbal/quant at numbering reset
     prev, split_idx = 0, len(q_cols)
     for j, (idx, qnum, h) in enumerate(q_cols):
-        if qnum < prev:h
+        if qnum < prev:
             split_idx = j
             break
         prev = qnum
@@ -533,7 +533,7 @@ body{{font-family:'Inter',-apple-system,BlinkMacSystemFont,sans-serif;background
 .hero::before{{content:'';position:absolute;top:-80px;right:-80px;width:280px;height:280px;background:radial-gradient(circle,rgba(100,216,174,0.2) 0%,transparent 70%);border-radius:50%;pointer-events:none}}
 .hero::after{{content:'';position:absolute;bottom:-60px;left:-40px;width:200px;height:200px;background:radial-gradient(circle,rgba(176,138,249,0.12) 0%,transparent 70%);border-radius:50%;pointer-events:none}}
 .hero-logo{{width:72px;margin-bottom:24px;position:relative;z-index:1}}
-.student-name{{font-size:38px;font-weight:300;letter-spacing:-0.8px;color:var(--black);margin-bottom:4px;line-height:1.15;position:relative;z-index:1}}
+.student-name{{font-size:38px;font-weight:300;letter-spacing:-0.8px;color:var(--black);margin-bottom:4px;line-height:1.15;position:relative;z-index:1;word-break:break-word}}
 .student-meta{{font-size:13px;color:var(--gray);font-weight:500;margin-bottom:32px;position:relative;z-index:1;letter-spacing:0.3px}}
 .score-ring-area{{display:flex;justify-content:center;margin-bottom:16px;position:relative;z-index:1}}
 .score-ring{{position:relative;width:170px;height:170px}}
@@ -599,7 +599,7 @@ body{{font-family:'Inter',-apple-system,BlinkMacSystemFont,sans-serif;background
 .cta-h{{font-size:18px;font-weight:600;color:var(--black);margin-bottom:8px;position:relative}}.cta-p{{font-size:14px;color:rgba(20,20,20,0.7);line-height:1.6;max-width:400px;margin-left:auto;margin-right:auto;position:relative}}
 .footer{{text-align:center;padding:28px 24px}}.footer img{{width:48px;opacity:0.3;margin-bottom:12px}}
 .footnote{{font-size:12px;color:#888;max-width:480px;margin:0 auto;line-height:1.7;padding:0 24px}}
-@media(max-width:480px){{.student-name{{font-size:30px}}.score-ring{{width:140px;height:140px}}.ring-label .pct{{font-size:34px}}.score-nav{{gap:8px;padding:0 16px}}.nav-card{{padding:14px 10px 12px}}.nav-card .nc-score{{font-size:24px}}.dual-cards{{grid-template-columns:1fr}}.micro-cards{{grid-template-columns:1fr}}.content{{padding:24px 16px 40px}}}}
+@media(max-width:480px){{.hero{{padding:24px 20px 44px}}.student-name{{font-size:26px;letter-spacing:-0.4px}}.student-meta{{margin-bottom:24px}}.score-ring-area{{margin-bottom:12px}}.score-ring{{width:130px;height:130px}}.ring-label .pct{{font-size:32px}}.ring-label .pct-unit{{font-size:15px}}.ring-label .raw{{font-size:11px}}.score-nav{{gap:6px;padding:0 16px}}.nav-card{{padding:12px 8px 10px;border-radius:12px}}.nav-card .nc-score{{font-size:22px}}.nav-card .nc-unit{{font-size:11px}}.nav-card .nc-label{{font-size:10px;letter-spacing:0.3px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}}.nav-card .nc-cta{{font-size:10px}}.dual-cards{{grid-template-columns:1fr}}.micro-cards{{grid-template-columns:1fr}}.content{{padding:24px 16px 40px}}}}
 </style>
 </head>
 <body>
@@ -617,7 +617,7 @@ body{{font-family:'Inter',-apple-system,BlinkMacSystemFont,sans-serif;background
     <div class="student-name">{s['name']}</div>
     <div class="student-meta">Grade {grade_num}  /  GAT Diagnostic  /  {s['date_str']}</div>
     <div class="score-ring-area"><div class="score-ring">
-      <svg viewBox="0 0 170 170" width="170" height="170"><circle class="ring-bg" cx="85" cy="85" r="73"/><circle class="ring-fill" cx="85" cy="85" r="73"/></svg>
+      <svg viewBox="0 0 170 170" width="100%" height="100%"><circle class="ring-bg" cx="85" cy="85" r="73"/><circle class="ring-fill" cx="85" cy="85" r="73"/></svg>
       <div class="ring-label"><div class="pct">{overall_pct}<span class="pct-unit">%</span></div><div class="raw">{overall} / {overall_total}</div></div>
     </div></div>
     <div class="score-context"><div class="score-dot" style="background:{tier_color}"></div><span class="score-tier">{tier_label}</span></div>
