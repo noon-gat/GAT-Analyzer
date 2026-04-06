@@ -177,7 +177,7 @@ def load_responses(path, verbal_questions, quant_questions):
     # Split verbal/quant at numbering reset
     prev, split_idx = 0, len(q_cols)
     for j, (idx, qnum, h) in enumerate(q_cols):
-        if qnum < prev:
+        if qnum < prev:h
             split_idx = j
             break
         prev = qnum
