@@ -307,12 +307,54 @@ def compute_study_groups(verbal_results, quant_results):
 
 # ── Score tier ───────────────────────────────────────────────────────────────
 
+READINESS_TIERS = [
+    {"label": "Foundation",  "sub": "Fix knowledge gaps",      "min": 0,  "max": 49,  "color": "#EA8CBB"},
+    {"label": "Development", "sub": "Build & practice skills",  "min": 50, "max": 89,  "color": "#5FA0E0"},
+    {"label": "Advanced",    "sub": "Targeted mastery",         "min": 90, "max": 100, "color": "#4BA283"},
+]
+
+
 def score_tier(pct):
-    if pct >= 90: return ("Test-ready", "#4BA283")
-    if pct >= 75: return ("Strong start", "#4BA283")
-    if pct >= 60: return ("Great place to start", "#5FA0E0")
-    if pct >= 40: return ("Building momentum", "#FF703E")
-    return ("Your starting line", "#EA8CBB")
+    if pct >= 90: return ("Advanced Phase", "#4BA283")
+    if pct >= 50: return ("Development Phase", "#5FA0E0")
+    return ("Foundation Phase", "#EA8CBB")
+
+
+def readiness_tier_index(pct):
+    for i in range(len(READINESS_TIERS) - 1, -1, -1):
+        if pct >= READINESS_TIERS[i]["min"]:
+            return i
+    return 0
+
+
+def readiness_bar_html(overall_pct):
+    idx = readiness_tier_index(overall_pct)
+    current = READINESS_TIERS[idx]
+    # Bar segments
+    segs = ''
+    for i, t in enumerate(READINESS_TIERS):
+        w = t["max"] - t["min"] + 1
+        op = 1 if i <= idx else 0.15
+        div = '<div class="seg-divider"></div>' if i > 0 else ''
+        segs += f'{div}<div class="seg" style="flex:{w};background:{t["color"]};opacity:{op}"></div>'
+    # Marker position
+    marker_left = max(8, min(92, overall_pct))
+    marker_label = f'{current["label"]} Phase &middot; {overall_pct}%'
+    # Labels
+    labels = ''
+    for i, t in enumerate(READINESS_TIERS):
+        w = t["max"] - t["min"] + 1
+        cls = 'seg-label'
+        if i == idx: cls += ' active'
+        elif i > idx: cls += ' future'
+        rng = f'Below {t["max"]+1}%' if t["min"] == 0 else (f'{t["min"]}%+' if t["max"] == 100 else f'{t["min"]}&ndash;{t["max"]}%')
+        labels += f'<div class="{cls}" style="flex:{w}"><div class="seg-label-name">{t["label"]}</div><div class="seg-label-sub">{t["sub"]}</div><div class="seg-label-range">{rng}</div></div>'
+    return f'''<div class="readiness-scale">
+      <div class="readiness-heading">Readiness Scale</div>
+      <div class="seg-bar">{segs}</div>
+      <div class="seg-marker-wrap"><div class="seg-marker" style="left:{marker_left}%"><div class="seg-marker-arrow"></div><div class="seg-marker-label">{marker_label}</div></div></div>
+      <div class="seg-labels">{labels}</div>
+    </div>'''
 
 
 # ── HTML generation ──────────────────────────────────────────────────────────
@@ -544,8 +586,25 @@ body{{font-family:'Inter',-apple-system,BlinkMacSystemFont,sans-serif;background
 .ring-label{{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center}}
 .ring-label .pct{{font-size:42px;font-weight:300;color:var(--black);line-height:1}}.ring-label .pct-unit{{font-size:18px;font-weight:300}}
 .ring-label .raw{{font-size:12px;color:var(--gray);margin-top:4px;font-weight:500}}
-.score-context{{display:inline-flex;align-items:center;gap:8px;background:var(--off-white);border-radius:24px;padding:7px 18px;position:relative;z-index:1}}
-.score-dot{{width:8px;height:8px;border-radius:50%;flex-shrink:0}}.score-tier{{font-size:14px;font-weight:600;color:var(--black)}}
+.readiness-scale{{position:relative;z-index:1;padding:0 4px;margin-bottom:8px}}
+.readiness-heading{{font-size:10px;font-weight:600;text-transform:uppercase;letter-spacing:1px;color:var(--gray);margin-bottom:12px;text-align:center}}
+.seg-bar{{display:flex;height:12px;border-radius:7px;overflow:hidden;background:var(--lt-gray)}}
+.seg{{height:100%;transition:opacity 0.4s}}.seg-divider{{width:2px;background:white;flex-shrink:0}}
+.seg-marker-wrap{{position:relative;height:32px;margin-top:5px}}
+.seg-marker{{position:absolute;transform:translateX(-50%);display:flex;flex-direction:column;align-items:center}}
+.seg-marker-arrow{{width:0;height:0;border-left:5px solid transparent;border-right:5px solid transparent;border-bottom:6px solid var(--black)}}
+.seg-marker-label{{background:var(--black);color:white;font-size:10px;font-weight:600;padding:4px 12px;border-radius:10px;white-space:nowrap}}
+.seg-labels{{display:flex;margin-top:8px}}
+.seg-label{{display:flex;flex-direction:column;align-items:center;text-align:center}}
+.seg-label-name{{font-size:10px;font-weight:600;line-height:1.3;color:#666}}
+.seg-label-sub{{font-size:9px;color:#777;margin-top:2px;line-height:1.3;font-style:italic}}
+.seg-label-range{{font-size:9px;color:#888;margin-top:2px}}
+.seg-label.active .seg-label-name{{color:var(--black);font-weight:700}}
+.seg-label.active .seg-label-sub{{color:#444}}
+.seg-label.active .seg-label-range{{color:#666}}
+.seg-label.future .seg-label-name{{color:#999}}
+.seg-label.future .seg-label-sub{{color:#aaa}}
+.seg-label.future .seg-label-range{{color:#aaa}}
 .score-nav{{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;padding:0 24px;margin-top:-28px;position:relative;z-index:2;max-width:600px;margin-left:auto;margin-right:auto}}
 .nav-card{{background:white;border-radius:16px;padding:18px 14px 14px;text-align:center;box-shadow:0 2px 12px rgba(0,0,0,0.06);cursor:pointer;transition:transform 0.2s,box-shadow 0.2s,border-color 0.2s;border:2px solid transparent}}
 .nav-card:hover{{transform:translateY(-3px);box-shadow:0 6px 24px rgba(0,0,0,0.1)}}.nav-card.active{{border-color:var(--green)}}
@@ -599,7 +658,7 @@ body{{font-family:'Inter',-apple-system,BlinkMacSystemFont,sans-serif;background
 .cta-h{{font-size:18px;font-weight:600;color:var(--black);margin-bottom:8px;position:relative}}.cta-p{{font-size:14px;color:rgba(20,20,20,0.7);line-height:1.6;max-width:400px;margin-left:auto;margin-right:auto;position:relative}}
 .footer{{text-align:center;padding:28px 24px}}.footer img{{width:48px;opacity:0.3;margin-bottom:12px}}
 .footnote{{font-size:12px;color:#888;max-width:480px;margin:0 auto;line-height:1.7;padding:0 24px}}
-@media(max-width:480px){{.hero{{padding:24px 20px 44px}}.student-name{{font-size:26px;letter-spacing:-0.4px}}.student-meta{{margin-bottom:24px}}.score-ring-area{{margin-bottom:12px}}.score-ring{{width:130px;height:130px}}.ring-label .pct{{font-size:32px}}.ring-label .pct-unit{{font-size:15px}}.ring-label .raw{{font-size:11px}}.score-nav{{gap:6px;padding:0 16px}}.nav-card{{padding:12px 8px 10px;border-radius:12px}}.nav-card .nc-score{{font-size:22px}}.nav-card .nc-unit{{font-size:11px}}.nav-card .nc-label{{font-size:10px;letter-spacing:0.3px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}}.nav-card .nc-cta{{font-size:10px}}.dual-cards{{grid-template-columns:1fr}}.micro-cards{{grid-template-columns:1fr}}.content{{padding:24px 16px 40px}}}}
+@media(max-width:480px){{.hero{{padding:24px 20px 44px}}.student-name{{font-size:26px;letter-spacing:-0.4px}}.student-meta{{margin-bottom:24px}}.score-ring-area{{margin-bottom:12px}}.score-ring{{width:130px;height:130px}}.ring-label .pct{{font-size:32px}}.ring-label .pct-unit{{font-size:15px}}.ring-label .raw{{font-size:11px}}.readiness-scale{{padding:0}}.seg-label-name{{font-size:9px}}.seg-label-sub{{font-size:8px}}.seg-label-range{{font-size:8px}}.seg-marker-label{{font-size:9px;padding:3px 8px}}.score-nav{{gap:6px;padding:0 16px}}.nav-card{{padding:12px 8px 10px;border-radius:12px}}.nav-card .nc-score{{font-size:22px}}.nav-card .nc-unit{{font-size:11px}}.nav-card .nc-label{{font-size:10px;letter-spacing:0.3px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}}.nav-card .nc-cta{{font-size:10px}}.dual-cards{{grid-template-columns:1fr}}.micro-cards{{grid-template-columns:1fr}}.content{{padding:24px 16px 40px}}}}
 </style>
 </head>
 <body>
@@ -620,7 +679,7 @@ body{{font-family:'Inter',-apple-system,BlinkMacSystemFont,sans-serif;background
       <svg viewBox="0 0 170 170" width="100%" height="100%"><circle class="ring-bg" cx="85" cy="85" r="73"/><circle class="ring-fill" cx="85" cy="85" r="73"/></svg>
       <div class="ring-label"><div class="pct">{overall_pct}<span class="pct-unit">%</span></div><div class="raw">{overall} / {overall_total}</div></div>
     </div></div>
-    <div class="score-context"><div class="score-dot" style="background:{tier_color}"></div><span class="score-tier">{tier_label}</span></div>
+    {readiness_bar_html(overall_pct)}
   </div>
   <div class="score-nav">
     <div class="nav-card active" onclick="go('overview')"><div class="nc-score" style="color:var(--black)">{overall_pct}<span class="nc-unit">%</span></div><div class="nc-label">Overall</div><div class="nc-bar"><div class="nc-bar-fill" style="width:{overall_pct}%;background:var(--green)"></div></div><div class="nc-cta">Overview</div></div>
