@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Qudurat Report — Design Comparison</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Chakra+Petch:wght@600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#0F1428; --surface:#171D36; --border:#262F54; --text-0:#F1F4FA; --text-1:#A3ADC7; --text-2:#6B7594;
+  --neon:#14F195; --pastel:#64D8AE;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:'Inter',system-ui,sans-serif;background:var(--bg);color:var(--text-0);min-height:100vh;padding:48px 24px}
+.wrap{max-width:820px;margin:0 auto}
+.eyebrow{font-family:'Chakra Petch',sans-serif;font-size:11px;letter-spacing:3px;text-transform:uppercase;color:var(--neon);margin-bottom:10px;font-weight:600}
+h1{font-size:32px;font-weight:700;letter-spacing:-0.5px;margin-bottom:10px}
+.lede{color:var(--text-1);font-size:15px;line-height:1.6;max-width:600px;margin-bottom:36px}
+.row{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-bottom:16px}
+.label{font-family:'Chakra Petch',sans-serif;font-size:11px;letter-spacing:2px;text-transform:uppercase;color:var(--text-2);margin-bottom:8px;font-weight:600}
+.student{font-size:18px;font-weight:600;margin-bottom:2px}
+.sub{font-size:12px;color:var(--text-2);margin-bottom:14px}
+.card{background:var(--surface);border:1px solid var(--border);padding:22px;border-radius:10px;text-decoration:none;color:inherit;display:block;transition:all 0.2s;clip-path:polygon(10px 0,100% 0,100% calc(100% - 10px),calc(100% - 10px) 100%,0 100%,0 10px)}
+.card:hover{transform:translateY(-2px)}
+.card.pastel:hover{border-color:var(--pastel);box-shadow:0 0 20px rgba(100,216,174,0.25)}
+.card.neon:hover{border-color:var(--neon);box-shadow:0 0 20px rgba(20,241,149,0.35)}
+.pin{display:inline-block;font-family:'Chakra Petch',monospace;font-size:11px;padding:3px 8px;background:var(--bg);border:1px solid var(--border);border-radius:3px;color:var(--text-1);letter-spacing:1px;margin-top:6px}
+.pin b{color:var(--text-0)}
+.footnote{margin-top:36px;padding-top:24px;border-top:1px solid var(--border);font-size:13px;color:var(--text-2);line-height:1.7}
+.legend{display:flex;gap:18px;margin-top:18px;flex-wrap:wrap}
+.legend-item{display:flex;align-items:center;gap:8px;font-size:13px;color:var(--text-1)}
+.swatch{width:14px;height:14px;border-radius:3px}
+.swatch.pastel{background:var(--pastel)}
+.swatch.neon{background:var(--neon);box-shadow:0 0 8px var(--neon)}
+.divider{margin:28px 0 20px;display:flex;align-items:center;gap:12px}
+.divider-line{flex:1;height:1px;background:var(--border)}
+.divider-label{font-family:'Chakra Petch',sans-serif;font-size:11px;letter-spacing:2px;text-transform:uppercase;color:var(--text-2);font-weight:600}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="eyebrow">Qudurat Diagnostic // Design A/B</div>
+  <h1>Report design comparison</h1>
+  <p class="lede">Two students, two designs. Same data, same structure, same copy. The only difference is the visual treatment. Open each and tell us which reads right for a 15–18 year old Saudi student.</p>
+
+  <div class="legend">
+    <div class="legend-item"><span class="swatch pastel"></span>Pastel (current)</div>
+    <div class="legend-item"><span class="swatch neon"></span>Neon HUD (proposed)</div>
+  </div>
+
+  <div class="divider">
+    <div class="divider-label">High scorer · 79%</div>
+    <div class="divider-line"></div>
+  </div>
+  <div class="student" dir="rtl" style="text-align:right">راما عبدالله ناصر الوهيبي</div>
+  <div class="sub">Grade 12 (الثاني الثانوي) — Quant 82% · Verbal 76%</div>
+  <div class="row">
+    <a class="card pastel" href="راما-عبدالله-ناصر-الوهيبي-7118-pastel.html">
+      <div class="label">Pastel (current)</div>
+      <div>Original cream-and-mint design</div>
+      <div class="pin">PIN <b>7118</b></div>
+    </a>
+    <a class="card neon" href="راما-عبدالله-ناصر-الوهيبي-7118-neon.html">
+      <div class="label">Neon HUD (proposed)</div>
+      <div>Dark esports-style redesign</div>
+      <div class="pin">PIN <b>7118</b></div>
+    </a>
+  </div>
+
+  <div class="divider">
+    <div class="divider-label">Low scorer · 37%</div>
+    <div class="divider-line"></div>
+  </div>
+  <div class="student" dir="rtl" style="text-align:right">ريما سليمان الطايل</div>
+  <div class="sub">Grade 12 (الثالث الثانوي) — Quant 18% · Verbal 56%</div>
+  <div class="row">
+    <a class="card pastel" href="ريما-سليمان-الطايل-4314-pastel.html">
+      <div class="label">Pastel (current)</div>
+      <div>Original cream-and-mint design</div>
+      <div class="pin">PIN <b>4314</b></div>
+    </a>
+    <a class="card neon" href="ريما-سليمان-الطايل-4314-neon.html">
+      <div class="label">Neon HUD (proposed)</div>
+      <div>Dark esports-style redesign</div>
+      <div class="pin">PIN <b>4314</b></div>
+    </a>
+  </div>
+
+  <div class="footnote">
+    Master PIN <b style="font-family:'Chakra Petch',monospace;color:var(--text-0)">SFA1</b> unlocks any report. Each file is self-contained (single HTML, no dependencies), so uploading the whole folder to a static host or sharing the files directly both work.
+  </div>
+</div>
+</body>
+</html>
