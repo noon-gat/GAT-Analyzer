@@ -3,84 +3,112 @@
     "user_id": 647318,
     "name": "فهده ",
     "filename": "647318-student.html",
-    "pin": "7318"
+    "pin": "7318",
+    "type": "complete"
   },
   {
     "user_id": 647334,
     "name": "حسناء السبيل",
     "filename": "647334-student.html",
-    "pin": "7334"
+    "pin": "7334",
+    "type": "complete"
   },
   {
     "user_id": 651260,
     "name": "نوره العتيبي",
     "filename": "651260-student.html",
-    "pin": "1260"
+    "pin": "1260",
+    "type": "complete"
   },
   {
     "user_id": 652974,
     "name": "عبدالله المهنا",
     "filename": "652974-student.html",
-    "pin": "2974"
+    "pin": "2974",
+    "type": "complete"
   },
   {
     "user_id": 653167,
     "name": "لمار فلاته",
     "filename": "653167-student.html",
-    "pin": "3167"
+    "pin": "3167",
+    "type": "complete"
   },
   {
     "user_id": 764749,
     "name": "العنود وائل دخاخني",
     "filename": "764749-student.html",
-    "pin": "4749"
+    "pin": "4749",
+    "type": "complete"
   },
   {
     "user_id": 765617,
     "name": "Yara Almutairi",
     "filename": "765617-student.html",
-    "pin": "5617"
+    "pin": "5617",
+    "type": "complete"
   },
   {
     "user_id": 765934,
     "name": "سلطان عبدالرحمن المطيري",
     "filename": "765934-student.html",
-    "pin": "5934"
+    "pin": "5934",
+    "type": "complete"
   },
   {
     "user_id": 765937,
     "name": "Eyad Mohammad Oteen",
     "filename": "765937-student.html",
-    "pin": "5937"
+    "pin": "5937",
+    "type": "complete"
   },
   {
     "user_id": 765939,
     "name": "Wafi Saad Alfouzan",
     "filename": "765939-student.html",
-    "pin": "5939"
+    "pin": "5939",
+    "type": "complete"
   },
   {
     "user_id": 765940,
     "name": "ميار مختار الصومالي",
     "filename": "765940-student.html",
-    "pin": "5940"
+    "pin": "5940",
+    "type": "complete"
   },
   {
     "user_id": 765941,
     "name": "اجوان بندر المجيول",
     "filename": "765941-student.html",
-    "pin": "5941"
+    "pin": "5941",
+    "type": "complete"
   },
   {
     "user_id": 766588,
     "name": "Norah Ali Alnasser",
     "filename": "766588-student.html",
-    "pin": "6588"
+    "pin": "6588",
+    "type": "complete"
   },
   {
     "user_id": 766623,
     "name": "Alyah Alosaimi",
     "filename": "766623-student.html",
-    "pin": "6623"
+    "pin": "6623",
+    "type": "complete"
+  },
+  {
+    "user_id": 581572,
+    "name": "سارا",
+    "filename": "581572-student.html",
+    "pin": "1572",
+    "type": "post_only_snapshot"
+  },
+  {
+    "user_id": 767752,
+    "name": "Tala ahmed alharbi",
+    "filename": "767752-student.html",
+    "pin": "7752",
+    "type": "post_only_snapshot"
   }
 ]
