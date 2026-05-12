@@ -1,0 +1,4097 @@
+[
+  {
+    "timestamp": "2026-04-21 12:23:32.115000",
+    "name": "جلال ثائر السامرائي",
+    "email": "007jalol@gmail.com",
+    "gender": "ذكر",
+    "student_phone": "0566544619",
+    "parent_phone": "0561777165",
+    "school": "مدارس العنايه",
+    "grade": "الاول الثانوي",
+    "pin": "4619",
+    "quant_score": 23,
+    "verbal_score": 23,
+    "total_score": 46,
+    "overall_pct": 46,
+    "quant_answers": [
+      {
+        "qn": 1,
+        "student_answer": "ج",
+        "correct": true,
+        "sub_section": "هندسة",
+        "skill": "المثلث",
+        "difficulty": 1
+      },
+      {
+        "qn": 2,
+        "student_answer": "أ",
+        "correct": false,
+        "sub_section": "هندسة",
+        "skill": "المثلث",
+        "difficulty": 1
+      },
+      {
+        "qn": 3,
+        "student_answer": 4.0,
+        "correct": false,
+        "sub_section": "حساب",
+        "skill": "العمليات الحسابية الأربع",
+        "difficulty": 3
+      },
+      {
+        "qn": 4,
+        "student_answer": "ب",
+        "correct": false,
+        "sub_section": "هندسة",
+        "skill": "المحيطات والمساحات والحجوم",
+        "difficulty": 1
+      },
+      {
+        "qn": 5,
+        "student_answer": "القيمتان متساويتان",
+        "correct": false,
+        "sub_section": "هندسة",
+        "skill": "الزوايا",
+        "difficulty": 2
+      },
+      {
+        "qn": 6,
+        "student_answer": "القيمتان متساويتان",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "العمليات الحسابية الأربع",
+        "difficulty": 1
+      },
+      {
+        "qn": 7,
+        "student_answer": "القيمة الأولى أكبر",
+        "correct": false,
+        "sub_section": "حساب",
+        "skill": "العمليات الحسابية الأربع",
+        "difficulty": 2
+      },
+      {
+        "qn": 8,
+        "student_answer": "القيمة الأولى أكبر",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "العمليات الحسابية الأربع",
+        "difficulty": 1
+      },
+      {
+        "qn": 9,
+        "student_answer": "القيمة الثانية أكبر",
+        "correct": false,
+        "sub_section": "هندسة",
+        "skill": "الأشكال الرباعية والمضلعات",
+        "difficulty": 3
+      },
+      {
+        "qn": 10,
+        "student_answer": "القيمتان متساويتان",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "القواسم والمضاعفات والبواقي",
+        "difficulty": 1
+      },
+      {
+        "qn": 11,
+        "student_answer": "القيمة الثانية أكبر",
+        "correct": false,
+        "sub_section": "جبر",
+        "skill": "القوى",
+        "difficulty": 1
+      },
+      {
+        "qn": 12,
+        "student_answer": "ب",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "العمليات الحسابية الأربع",
+        "difficulty": 2
+      },
+      {
+        "qn": 13,
+        "student_answer": "ج",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "العمليات الحسابية الأربع",
+        "difficulty": 1
+      },
+      {
+        "qn": 14,
+        "student_answer": "القيمة الأولى أكبر",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "النسبة والتناسب",
+        "difficulty": 2
+      },
+      {
+        "qn": 15,
+        "student_answer": "أ",
+        "correct": false,
+        "sub_section": "حساب",
+        "skill": "العمليات الحسابية الأربع",
+        "difficulty": 2
+      },
+      {
+        "qn": 16,
+        "student_answer": "ج",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "قوانين الحركة",
+        "difficulty": 2
+      },
+      {
+        "qn": 17,
+        "student_answer": "د",
+        "correct": false,
+        "sub_section": "حساب",
+        "skill": "النسبة والتناسب",
+        "difficulty": 2
+      },
+      {
+        "qn": 18,
+        "student_answer": "ب",
+        "correct": false,
+        "sub_section": "حساب",
+        "skill": "الأعداد وخصائصها",
+        "difficulty": 2
+      },
+      {
+        "qn": 19,
+        "student_answer": "ج",
+        "correct": false,
+        "sub_section": "حساب",
+        "skill": "قوانين الحركة",
+        "difficulty": 2
+      },
+      {
+        "qn": 20,
+        "student_answer": "ج",
+        "correct": false,
+        "sub_section": "حساب",
+        "skill": "الأعداد وخصائصها",
+        "difficulty": 2
+      },
+      {
+        "qn": 21,
+        "student_answer": "ب",
+        "correct": false,
+        "sub_section": "حساب",
+        "skill": "العمليات الحسابية الأربع",
+        "difficulty": 2
+      },
+      {
+        "qn": 22,
+        "student_answer": "ب",
+        "correct": false,
+        "sub_section": "حساب",
+        "skill": "الأعداد وخصائصها",
+        "difficulty": 3
+      },
+      {
+        "qn": 23,
+        "student_answer": "ج",
+        "correct": false,
+        "sub_section": "حساب",
+        "skill": "قوانين الحركة",
+        "difficulty": 3
+      },
+      {
+        "qn": 24,
+        "student_answer": "د",
+        "correct": true,
+        "sub_section": "جبر",
+        "skill": "معادلات الدرجة الأولي و الثانية و المعادلات الخطية بمجهولين",
+        "difficulty": 3
+      },
+      {
+        "qn": 25,
+        "student_answer": "ب",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "الانماط العددية",
+        "difficulty": 1
+      },
+      {
+        "qn": 26,
+        "student_answer": "ج",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "العمليات الحسابية الأربع",
+        "difficulty": 3
+      },
+      {
+        "qn": 27,
+        "student_answer": "ج",
+        "correct": true,
+        "sub_section": "احصاء",
+        "skill": "تحليل البيانات و تفسيرها",
+        "difficulty": 2
+      },
+      {
+        "qn": 28,
+        "student_answer": "د",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "الكسور الاعتيادية و العمليات عليها",
+        "difficulty": 3
+      },
+      {
+        "qn": 29,
+        "student_answer": "ج",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "النسبة والتناسب",
+        "difficulty": 2
+      },
+      {
+        "qn": 30,
+        "student_answer": "المعطيات غير كافية",
+        "correct": false,
+        "sub_section": "هندسة",
+        "skill": "المحيطات والمساحات والحجوم",
+        "difficulty": 2
+      },
+      {
+        "qn": 31,
+        "student_answer": "ج",
+        "correct": false,
+        "sub_section": "هندسة",
+        "skill": "الدائرة",
+        "difficulty": 2
+      },
+      {
+        "qn": 32,
+        "student_answer": "أ",
+        "correct": false,
+        "sub_section": "هندسة",
+        "skill": "الزوايا",
+        "difficulty": 2
+      },
+      {
+        "qn": 33,
+        "student_answer": "ب",
+        "correct": false,
+        "sub_section": "هندسة",
+        "skill": "الدائرة",
+        "difficulty": 3
+      },
+      {
+        "qn": 34,
+        "student_answer": "د",
+        "correct": true,
+        "sub_section": "هندسة",
+        "skill": "المثلث",
+        "difficulty": 3
+      },
+      {
+        "qn": 35,
+        "student_answer": "القيمتان متساويتان",
+        "correct": false,
+        "sub_section": "حساب",
+        "skill": "الكسور الاعتيادية و العمليات عليها",
+        "difficulty": 1
+      },
+      {
+        "qn": 36,
+        "student_answer": "القيمة الأولى أكبر",
+        "correct": true,
+        "sub_section": "جبر",
+        "skill": "القوى",
+        "difficulty": 1
+      },
+      {
+        "qn": 37,
+        "student_answer": "ج",
+        "correct": false,
+        "sub_section": "احصاء",
+        "skill": "المتوسط الحسابي و الوسيط و المنوال",
+        "difficulty": 3
+      },
+      {
+        "qn": 38,
+        "student_answer": "ج",
+        "correct": false,
+        "sub_section": "احصاء",
+        "skill": "المتوسط الحسابي و الوسيط و المنوال",
+        "difficulty": 3
+      },
+      {
+        "qn": 39,
+        "student_answer": "د",
+        "correct": false,
+        "sub_section": "احصاء",
+        "skill": "المتوسط الحسابي و الوسيط و المنوال",
+        "difficulty": 3
+      },
+      {
+        "qn": 40,
+        "student_answer": "أ",
+        "correct": false,
+        "sub_section": "احصاء",
+        "skill": "المتوسط الحسابي و الوسيط و المنوال",
+        "difficulty": 2
+      },
+      {
+        "qn": 41,
+        "student_answer": "ج",
+        "correct": true,
+        "sub_section": "احصاء",
+        "skill": "تحليل البيانات و تفسيرها",
+        "difficulty": 2
+      },
+      {
+        "qn": 42,
+        "student_answer": "ب",
+        "correct": true,
+        "sub_section": "احصاء",
+        "skill": "المتوسط الحسابي و الوسيط و المنوال",
+        "difficulty": 2
+      },
+      {
+        "qn": 43,
+        "student_answer": "أ",
+        "correct": false,
+        "sub_section": "احصاء",
+        "skill": "المتوسط الحسابي و الوسيط و المنوال",
+        "difficulty": 2
+      },
+      {
+        "qn": 44,
+        "student_answer": "ج",
+        "correct": true,
+        "sub_section": "احصاء",
+        "skill": "المتوسط الحسابي و الوسيط و المنوال",
+        "difficulty": 1
+      },
+      {
+        "qn": 45,
+        "student_answer": "ب",
+        "correct": true,
+        "sub_section": "جبر",
+        "skill": "القوى",
+        "difficulty": 2
+      },
+      {
+        "qn": 46,
+        "student_answer": "د",
+        "correct": false,
+        "sub_section": "احصاء",
+        "skill": "الاحتمالات",
+        "difficulty": 1
+      },
+      {
+        "qn": 47,
+        "student_answer": "د",
+        "correct": true,
+        "sub_section": "جبر",
+        "skill": "المقادير الجبرية",
+        "difficulty": 3
+      },
+      {
+        "qn": 48,
+        "student_answer": "ب",
+        "correct": false,
+        "sub_section": "حساب",
+        "skill": "الكسور العشرية و العمليات عليها",
+        "difficulty": 2
+      },
+      {
+        "qn": 49,
+        "student_answer": "أ",
+        "correct": true,
+        "sub_section": "جبر",
+        "skill": "القوى",
+        "difficulty": 2
+      },
+      {
+        "qn": 50,
+        "student_answer": "ب",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "العمليات الحسابية الأربع",
+        "difficulty": 1
+      }
+    ],
+    "verbal_answers": [
+      {
+        "qn": 1,
+        "student_answer": "مِدفَع : قذيفة",
+        "correct": false,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 3
+      },
+      {
+        "qn": 2,
+        "student_answer": "تعدد طرائقة",
+        "correct": true,
+        "sub_section": "القدرة الاستيعابية",
+        "skill": "استيعاب مقروء",
+        "difficulty": 3
+      },
+      {
+        "qn": 3,
+        "student_answer": "عادة",
+        "correct": false,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "اكمال الجمل",
+        "difficulty": 3
+      },
+      {
+        "qn": 4,
+        "student_answer": "أوفر",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "خطأ سياقي",
+        "difficulty": 3
+      },
+      {
+        "qn": 5,
+        "student_answer": "دفن",
+        "correct": false,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 3
+      },
+      {
+        "qn": 6,
+        "student_answer": "حامض : ليمون",
+        "correct": true,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 2
+      },
+      {
+        "qn": 7,
+        "student_answer": "وصفة : طبيب",
+        "correct": false,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 2
+      },
+      {
+        "qn": 8,
+        "student_answer": "مدينة : مطار",
+        "correct": false,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 2
+      },
+      {
+        "qn": 9,
+        "student_answer": "عش : عنكبوت",
+        "correct": false,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 2
+      },
+      {
+        "qn": 10,
+        "student_answer": "صوم : جوع",
+        "correct": false,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 2
+      },
+      {
+        "qn": 11,
+        "student_answer": "الغيم",
+        "correct": false,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "استيعاب مقروء",
+        "difficulty": 2
+      },
+      {
+        "qn": 12,
+        "student_answer": "مرتفعه",
+        "correct": false,
+        "sub_section": "القدرة الاستيعابية",
+        "skill": "استيعاب مقروء",
+        "difficulty": 2
+      },
+      {
+        "qn": 13,
+        "student_answer": "أزمة - قلق",
+        "correct": false,
+        "sub_section": "القدرة الاستيعابية",
+        "skill": "اكمال الجمل",
+        "difficulty": 2
+      },
+      {
+        "qn": 14,
+        "student_answer": "أفواج - رحله",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "اكمال الجمل",
+        "difficulty": 2
+      },
+      {
+        "qn": 15,
+        "student_answer": "الهم - الغم",
+        "correct": false,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "اكمال الجمل",
+        "difficulty": 2
+      },
+      {
+        "qn": 16,
+        "student_answer": "رقي - روح",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "اكمال الجمل",
+        "difficulty": 2
+      },
+      {
+        "qn": 17,
+        "student_answer": "قوية - ترك",
+        "correct": false,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "اكمال الجمل",
+        "difficulty": 2
+      },
+      {
+        "qn": 18,
+        "student_answer": "بصير",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "مفردة شاذة",
+        "difficulty": 2
+      },
+      {
+        "qn": 19,
+        "student_answer": "المسجد الأقصى",
+        "correct": false,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "مفردة شاذة",
+        "difficulty": 2
+      },
+      {
+        "qn": 20,
+        "student_answer": "الشعر",
+        "correct": true,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 2
+      },
+      {
+        "qn": 21,
+        "student_answer": "واهن",
+        "correct": false,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 2
+      },
+      {
+        "qn": 22,
+        "student_answer": "الحاذق",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "خطأ سياقي",
+        "difficulty": 2
+      },
+      {
+        "qn": 23,
+        "student_answer": "فقد",
+        "correct": false,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "خطأ سياقي",
+        "difficulty": 2
+      },
+      {
+        "qn": 24,
+        "student_answer": "لأولادك",
+        "correct": false,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "خطأ سياقي",
+        "difficulty": 2
+      },
+      {
+        "qn": 25,
+        "student_answer": "يفهم",
+        "correct": false,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "خطأ سياقي",
+        "difficulty": 2
+      },
+      {
+        "qn": 26,
+        "student_answer": "جندي : سلاح",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "تناظر لفظي",
+        "difficulty": 1
+      },
+      {
+        "qn": 27,
+        "student_answer": "جمهور : حماس",
+        "correct": false,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 1
+      },
+      {
+        "qn": 28,
+        "student_answer": "صلة الرحم : سعة الرزق",
+        "correct": true,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 1
+      },
+      {
+        "qn": 29,
+        "student_answer": "المذاكرة : النجاح",
+        "correct": true,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 1
+      },
+      {
+        "qn": 30,
+        "student_answer": "فنجان : قهوة",
+        "correct": true,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 1
+      },
+      {
+        "qn": 31,
+        "student_answer": "حداد : حديد",
+        "correct": true,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 1
+      },
+      {
+        "qn": 32,
+        "student_answer": "بحر : سمكة",
+        "correct": false,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 1
+      },
+      {
+        "qn": 33,
+        "student_answer": "الوباء النفسي",
+        "correct": false,
+        "sub_section": "القدرة الاستيعابية",
+        "skill": "استيعاب مقروء",
+        "difficulty": 1
+      },
+      {
+        "qn": 34,
+        "student_answer": "ترادف",
+        "correct": true,
+        "sub_section": "القدرة الاستيعابية",
+        "skill": "استيعاب مقروء",
+        "difficulty": 1
+      },
+      {
+        "qn": 35,
+        "student_answer": "جذب الشريك للتزاوج",
+        "correct": true,
+        "sub_section": "القدرة الاستيعابية",
+        "skill": "استيعاب مقروء",
+        "difficulty": 1
+      },
+      {
+        "qn": 36,
+        "student_answer": "أقل من الحيوانات الكبيرة",
+        "correct": false,
+        "sub_section": "القدرة الاستيعابية",
+        "skill": "استيعاب مقروء",
+        "difficulty": 1
+      },
+      {
+        "qn": 37,
+        "student_answer": "للخلف - للأعلى",
+        "correct": false,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "اكمال الجمل",
+        "difficulty": 1
+      },
+      {
+        "qn": 38,
+        "student_answer": "الكرم - الألم",
+        "correct": false,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "اكمال الجمل",
+        "difficulty": 1
+      },
+      {
+        "qn": 39,
+        "student_answer": "السماحة - محبة",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "اكمال الجمل",
+        "difficulty": 1
+      },
+      {
+        "qn": 40,
+        "student_answer": "فضيلة - اعتدال",
+        "correct": false,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "اكمال الجمل",
+        "difficulty": 1
+      },
+      {
+        "qn": 41,
+        "student_answer": "التطوعي - التكافل",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "اكمال الجمل",
+        "difficulty": 1
+      },
+      {
+        "qn": 42,
+        "student_answer": "ترك",
+        "correct": false,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "خطأ سياقي",
+        "difficulty": 1
+      },
+      {
+        "qn": 43,
+        "student_answer": "معروفة",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "خطأ سياقي",
+        "difficulty": 1
+      },
+      {
+        "qn": 44,
+        "student_answer": "عيوبك",
+        "correct": false,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "خطأ سياقي",
+        "difficulty": 1
+      },
+      {
+        "qn": 45,
+        "student_answer": "يبدأ",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "خطأ سياقي",
+        "difficulty": 1
+      },
+      {
+        "qn": 46,
+        "student_answer": "أسفل",
+        "correct": false,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "خطأ سياقي",
+        "difficulty": 1
+      },
+      {
+        "qn": 47,
+        "student_answer": "تركيا",
+        "correct": true,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 1
+      },
+      {
+        "qn": 48,
+        "student_answer": "مصلّين",
+        "correct": true,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 1
+      },
+      {
+        "qn": 49,
+        "student_answer": "نملة",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "مفردة شاذة",
+        "difficulty": 1
+      },
+      {
+        "qn": 50,
+        "student_answer": "يد",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "مفردة شاذة",
+        "difficulty": 1
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-04-21 11:09:25.936000",
+    "name": "فهد وليد الصالح",
+    "email": "aboooooly@gmail.com",
+    "gender": "ذكر",
+    "student_phone": "0533789554",
+    "parent_phone": "0500535818",
+    "school": "معهد العاصمة النموذجية",
+    "grade": "الاول الثانوي",
+    "pin": "9554",
+    "quant_score": 27,
+    "verbal_score": 37,
+    "total_score": 64,
+    "overall_pct": 64,
+    "quant_answers": [
+      {
+        "qn": 1,
+        "student_answer": "ج",
+        "correct": true,
+        "sub_section": "هندسة",
+        "skill": "المثلث",
+        "difficulty": 1
+      },
+      {
+        "qn": 2,
+        "student_answer": "ج",
+        "correct": false,
+        "sub_section": "هندسة",
+        "skill": "المثلث",
+        "difficulty": 1
+      },
+      {
+        "qn": 3,
+        "student_answer": 4.0,
+        "correct": false,
+        "sub_section": "حساب",
+        "skill": "العمليات الحسابية الأربع",
+        "difficulty": 3
+      },
+      {
+        "qn": 4,
+        "student_answer": "د",
+        "correct": true,
+        "sub_section": "هندسة",
+        "skill": "المحيطات والمساحات والحجوم",
+        "difficulty": 1
+      },
+      {
+        "qn": 5,
+        "student_answer": "القيمة الثانية أكبر",
+        "correct": true,
+        "sub_section": "هندسة",
+        "skill": "الزوايا",
+        "difficulty": 2
+      },
+      {
+        "qn": 6,
+        "student_answer": "القيمتان متساويتان",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "العمليات الحسابية الأربع",
+        "difficulty": 1
+      },
+      {
+        "qn": 7,
+        "student_answer": "القيمة الثانية أكبر",
+        "correct": false,
+        "sub_section": "حساب",
+        "skill": "العمليات الحسابية الأربع",
+        "difficulty": 2
+      },
+      {
+        "qn": 8,
+        "student_answer": "القيمة الأولى أكبر",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "العمليات الحسابية الأربع",
+        "difficulty": 1
+      },
+      {
+        "qn": 9,
+        "student_answer": "القيمتان متساويتان",
+        "correct": true,
+        "sub_section": "هندسة",
+        "skill": "الأشكال الرباعية والمضلعات",
+        "difficulty": 3
+      },
+      {
+        "qn": 10,
+        "student_answer": "القيمتان متساويتان",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "القواسم والمضاعفات والبواقي",
+        "difficulty": 1
+      },
+      {
+        "qn": 11,
+        "student_answer": "القيمة الثانية أكبر",
+        "correct": false,
+        "sub_section": "جبر",
+        "skill": "القوى",
+        "difficulty": 1
+      },
+      {
+        "qn": 12,
+        "student_answer": "ب",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "العمليات الحسابية الأربع",
+        "difficulty": 2
+      },
+      {
+        "qn": 13,
+        "student_answer": "د",
+        "correct": false,
+        "sub_section": "حساب",
+        "skill": "العمليات الحسابية الأربع",
+        "difficulty": 1
+      },
+      {
+        "qn": 14,
+        "student_answer": "القيمة الأولى أكبر",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "النسبة والتناسب",
+        "difficulty": 2
+      },
+      {
+        "qn": 15,
+        "student_answer": "ج",
+        "correct": false,
+        "sub_section": "حساب",
+        "skill": "العمليات الحسابية الأربع",
+        "difficulty": 2
+      },
+      {
+        "qn": 16,
+        "student_answer": "ج",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "قوانين الحركة",
+        "difficulty": 2
+      },
+      {
+        "qn": 17,
+        "student_answer": "أ",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "النسبة والتناسب",
+        "difficulty": 2
+      },
+      {
+        "qn": 18,
+        "student_answer": "ج",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "الأعداد وخصائصها",
+        "difficulty": 2
+      },
+      {
+        "qn": 19,
+        "student_answer": "ج",
+        "correct": false,
+        "sub_section": "حساب",
+        "skill": "قوانين الحركة",
+        "difficulty": 2
+      },
+      {
+        "qn": 20,
+        "student_answer": "ب",
+        "correct": false,
+        "sub_section": "حساب",
+        "skill": "الأعداد وخصائصها",
+        "difficulty": 2
+      },
+      {
+        "qn": 21,
+        "student_answer": "د",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "العمليات الحسابية الأربع",
+        "difficulty": 2
+      },
+      {
+        "qn": 22,
+        "student_answer": "ج",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "الأعداد وخصائصها",
+        "difficulty": 3
+      },
+      {
+        "qn": 23,
+        "student_answer": "ب",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "قوانين الحركة",
+        "difficulty": 3
+      },
+      {
+        "qn": 24,
+        "student_answer": "د",
+        "correct": true,
+        "sub_section": "جبر",
+        "skill": "معادلات الدرجة الأولي و الثانية و المعادلات الخطية بمجهولين",
+        "difficulty": 3
+      },
+      {
+        "qn": 25,
+        "student_answer": "ب",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "الانماط العددية",
+        "difficulty": 1
+      },
+      {
+        "qn": 26,
+        "student_answer": "ج",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "العمليات الحسابية الأربع",
+        "difficulty": 3
+      },
+      {
+        "qn": 27,
+        "student_answer": "ج",
+        "correct": true,
+        "sub_section": "احصاء",
+        "skill": "تحليل البيانات و تفسيرها",
+        "difficulty": 2
+      },
+      {
+        "qn": 28,
+        "student_answer": "ج",
+        "correct": false,
+        "sub_section": "حساب",
+        "skill": "الكسور الاعتيادية و العمليات عليها",
+        "difficulty": 3
+      },
+      {
+        "qn": 29,
+        "student_answer": "ج",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "النسبة والتناسب",
+        "difficulty": 2
+      },
+      {
+        "qn": 30,
+        "student_answer": "القيمة الأولى أكبر",
+        "correct": false,
+        "sub_section": "هندسة",
+        "skill": "المحيطات والمساحات والحجوم",
+        "difficulty": 2
+      },
+      {
+        "qn": 31,
+        "student_answer": "ب",
+        "correct": false,
+        "sub_section": "هندسة",
+        "skill": "الدائرة",
+        "difficulty": 2
+      },
+      {
+        "qn": 32,
+        "student_answer": "ب",
+        "correct": false,
+        "sub_section": "هندسة",
+        "skill": "الزوايا",
+        "difficulty": 2
+      },
+      {
+        "qn": 33,
+        "student_answer": "ب",
+        "correct": false,
+        "sub_section": "هندسة",
+        "skill": "الدائرة",
+        "difficulty": 3
+      },
+      {
+        "qn": 34,
+        "student_answer": "ب",
+        "correct": false,
+        "sub_section": "هندسة",
+        "skill": "المثلث",
+        "difficulty": 3
+      },
+      {
+        "qn": 35,
+        "student_answer": "القيمة الأولى أكبر",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "الكسور الاعتيادية و العمليات عليها",
+        "difficulty": 1
+      },
+      {
+        "qn": 36,
+        "student_answer": "القيمة الأولى أكبر",
+        "correct": true,
+        "sub_section": "جبر",
+        "skill": "القوى",
+        "difficulty": 1
+      },
+      {
+        "qn": 37,
+        "student_answer": "د",
+        "correct": false,
+        "sub_section": "احصاء",
+        "skill": "المتوسط الحسابي و الوسيط و المنوال",
+        "difficulty": 3
+      },
+      {
+        "qn": 38,
+        "student_answer": "ج",
+        "correct": false,
+        "sub_section": "احصاء",
+        "skill": "المتوسط الحسابي و الوسيط و المنوال",
+        "difficulty": 3
+      },
+      {
+        "qn": 39,
+        "student_answer": "ب",
+        "correct": false,
+        "sub_section": "احصاء",
+        "skill": "المتوسط الحسابي و الوسيط و المنوال",
+        "difficulty": 3
+      },
+      {
+        "qn": 40,
+        "student_answer": "ب",
+        "correct": false,
+        "sub_section": "احصاء",
+        "skill": "المتوسط الحسابي و الوسيط و المنوال",
+        "difficulty": 2
+      },
+      {
+        "qn": 41,
+        "student_answer": "ج",
+        "correct": true,
+        "sub_section": "احصاء",
+        "skill": "تحليل البيانات و تفسيرها",
+        "difficulty": 2
+      },
+      {
+        "qn": 42,
+        "student_answer": "د",
+        "correct": false,
+        "sub_section": "احصاء",
+        "skill": "المتوسط الحسابي و الوسيط و المنوال",
+        "difficulty": 2
+      },
+      {
+        "qn": 43,
+        "student_answer": "ب",
+        "correct": true,
+        "sub_section": "احصاء",
+        "skill": "المتوسط الحسابي و الوسيط و المنوال",
+        "difficulty": 2
+      },
+      {
+        "qn": 44,
+        "student_answer": "أ",
+        "correct": false,
+        "sub_section": "احصاء",
+        "skill": "المتوسط الحسابي و الوسيط و المنوال",
+        "difficulty": 1
+      },
+      {
+        "qn": 45,
+        "student_answer": "ب",
+        "correct": true,
+        "sub_section": "جبر",
+        "skill": "القوى",
+        "difficulty": 2
+      },
+      {
+        "qn": 46,
+        "student_answer": "ج",
+        "correct": false,
+        "sub_section": "احصاء",
+        "skill": "الاحتمالات",
+        "difficulty": 1
+      },
+      {
+        "qn": 47,
+        "student_answer": "ب",
+        "correct": false,
+        "sub_section": "جبر",
+        "skill": "المقادير الجبرية",
+        "difficulty": 3
+      },
+      {
+        "qn": 48,
+        "student_answer": "أ",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "الكسور العشرية و العمليات عليها",
+        "difficulty": 2
+      },
+      {
+        "qn": 49,
+        "student_answer": "ب",
+        "correct": false,
+        "sub_section": "جبر",
+        "skill": "القوى",
+        "difficulty": 2
+      },
+      {
+        "qn": 50,
+        "student_answer": "ب",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "العمليات الحسابية الأربع",
+        "difficulty": 1
+      }
+    ],
+    "verbal_answers": [
+      {
+        "qn": 1,
+        "student_answer": "رياضة : لياقة",
+        "correct": false,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 3
+      },
+      {
+        "qn": 2,
+        "student_answer": "تعدد طرائقة",
+        "correct": true,
+        "sub_section": "القدرة الاستيعابية",
+        "skill": "استيعاب مقروء",
+        "difficulty": 3
+      },
+      {
+        "qn": 3,
+        "student_answer": "نطيحة",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "اكمال الجمل",
+        "difficulty": 3
+      },
+      {
+        "qn": 4,
+        "student_answer": "عقله",
+        "correct": false,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "خطأ سياقي",
+        "difficulty": 3
+      },
+      {
+        "qn": 5,
+        "student_answer": "موت",
+        "correct": true,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 3
+      },
+      {
+        "qn": 6,
+        "student_answer": "حامض : ليمون",
+        "correct": true,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 2
+      },
+      {
+        "qn": 7,
+        "student_answer": "وصفة : طبيب",
+        "correct": false,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 2
+      },
+      {
+        "qn": 8,
+        "student_answer": "صحيفة : خبر",
+        "correct": true,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 2
+      },
+      {
+        "qn": 9,
+        "student_answer": "وجار : كلب",
+        "correct": true,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 2
+      },
+      {
+        "qn": 10,
+        "student_answer": "انتباه : ملاحظة",
+        "correct": false,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 2
+      },
+      {
+        "qn": 11,
+        "student_answer": "السمحاق",
+        "correct": false,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "استيعاب مقروء",
+        "difficulty": 2
+      },
+      {
+        "qn": 12,
+        "student_answer": "متوسطه",
+        "correct": true,
+        "sub_section": "القدرة الاستيعابية",
+        "skill": "استيعاب مقروء",
+        "difficulty": 2
+      },
+      {
+        "qn": 13,
+        "student_answer": "آفة - نقمة",
+        "correct": true,
+        "sub_section": "القدرة الاستيعابية",
+        "skill": "اكمال الجمل",
+        "difficulty": 2
+      },
+      {
+        "qn": 14,
+        "student_answer": "أفواج - رحله",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "اكمال الجمل",
+        "difficulty": 2
+      },
+      {
+        "qn": 15,
+        "student_answer": "الطعام - الآثام",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "اكمال الجمل",
+        "difficulty": 2
+      },
+      {
+        "qn": 16,
+        "student_answer": "رقي - روح",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "اكمال الجمل",
+        "difficulty": 2
+      },
+      {
+        "qn": 17,
+        "student_answer": "شرسة - طمس",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "اكمال الجمل",
+        "difficulty": 2
+      },
+      {
+        "qn": 18,
+        "student_answer": "بصير",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "مفردة شاذة",
+        "difficulty": 2
+      },
+      {
+        "qn": 19,
+        "student_answer": "مسجد قباء",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "مفردة شاذة",
+        "difficulty": 2
+      },
+      {
+        "qn": 20,
+        "student_answer": "النثر",
+        "correct": false,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 2
+      },
+      {
+        "qn": 21,
+        "student_answer": "خافت",
+        "correct": true,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 2
+      },
+      {
+        "qn": 22,
+        "student_answer": "النجاح",
+        "correct": false,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "خطأ سياقي",
+        "difficulty": 2
+      },
+      {
+        "qn": 23,
+        "student_answer": "فقد",
+        "correct": false,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "خطأ سياقي",
+        "difficulty": 2
+      },
+      {
+        "qn": 24,
+        "student_answer": "عن",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "خطأ سياقي",
+        "difficulty": 2
+      },
+      {
+        "qn": 25,
+        "student_answer": "الأقل",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "خطأ سياقي",
+        "difficulty": 2
+      },
+      {
+        "qn": 26,
+        "student_answer": "جندي : سلاح",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "تناظر لفظي",
+        "difficulty": 1
+      },
+      {
+        "qn": 27,
+        "student_answer": "مدرجات : ملعب",
+        "correct": true,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 1
+      },
+      {
+        "qn": 28,
+        "student_answer": "اختبار : امتحان",
+        "correct": false,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 1
+      },
+      {
+        "qn": 29,
+        "student_answer": "المذاكرة : النجاح",
+        "correct": true,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 1
+      },
+      {
+        "qn": 30,
+        "student_answer": "فنجان : قهوة",
+        "correct": true,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 1
+      },
+      {
+        "qn": 31,
+        "student_answer": "حداد : حديد",
+        "correct": true,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 1
+      },
+      {
+        "qn": 32,
+        "student_answer": "نجم : سماء",
+        "correct": true,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 1
+      },
+      {
+        "qn": 33,
+        "student_answer": "الوراثة",
+        "correct": true,
+        "sub_section": "القدرة الاستيعابية",
+        "skill": "استيعاب مقروء",
+        "difficulty": 1
+      },
+      {
+        "qn": 34,
+        "student_answer": "ترادف",
+        "correct": true,
+        "sub_section": "القدرة الاستيعابية",
+        "skill": "استيعاب مقروء",
+        "difficulty": 1
+      },
+      {
+        "qn": 35,
+        "student_answer": "جذب الشريك للتزاوج",
+        "correct": true,
+        "sub_section": "القدرة الاستيعابية",
+        "skill": "استيعاب مقروء",
+        "difficulty": 1
+      },
+      {
+        "qn": 36,
+        "student_answer": "أقل من الحيوانات الكبيرة",
+        "correct": false,
+        "sub_section": "القدرة الاستيعابية",
+        "skill": "استيعاب مقروء",
+        "difficulty": 1
+      },
+      {
+        "qn": 37,
+        "student_answer": "للخلف - للأعلى",
+        "correct": false,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "اكمال الجمل",
+        "difficulty": 1
+      },
+      {
+        "qn": 38,
+        "student_answer": "الخطايا - الجليد",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "اكمال الجمل",
+        "difficulty": 1
+      },
+      {
+        "qn": 39,
+        "student_answer": "السماحة - محبة",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "اكمال الجمل",
+        "difficulty": 1
+      },
+      {
+        "qn": 40,
+        "student_answer": "مذلّة - كبر",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "اكمال الجمل",
+        "difficulty": 1
+      },
+      {
+        "qn": 41,
+        "student_answer": "التطوعي - التكافل",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "اكمال الجمل",
+        "difficulty": 1
+      },
+      {
+        "qn": 42,
+        "student_answer": "مرارة",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "خطأ سياقي",
+        "difficulty": 1
+      },
+      {
+        "qn": 43,
+        "student_answer": "المبدع",
+        "correct": false,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "خطأ سياقي",
+        "difficulty": 1
+      },
+      {
+        "qn": 44,
+        "student_answer": "ينشر",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "خطأ سياقي",
+        "difficulty": 1
+      },
+      {
+        "qn": 45,
+        "student_answer": "يبدأ",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "خطأ سياقي",
+        "difficulty": 1
+      },
+      {
+        "qn": 46,
+        "student_answer": "أسفل",
+        "correct": false,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "خطأ سياقي",
+        "difficulty": 1
+      },
+      {
+        "qn": 47,
+        "student_answer": "تركيا",
+        "correct": true,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 1
+      },
+      {
+        "qn": 48,
+        "student_answer": "مصلّين",
+        "correct": true,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 1
+      },
+      {
+        "qn": 49,
+        "student_answer": "نملة",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "مفردة شاذة",
+        "difficulty": 1
+      },
+      {
+        "qn": 50,
+        "student_answer": "يد",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "مفردة شاذة",
+        "difficulty": 1
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-04-21 11:06:55.330000",
+    "name": "ريما سليمان الطايل",
+    "email": "S0444120@gmail.com",
+    "gender": "انثي",
+    "student_phone": "0533284314",
+    "parent_phone": "0505257207",
+    "school": "التربيه النموذجيه",
+    "grade": "الثالث الثانوي",
+    "pin": "4314",
+    "quant_score": 9,
+    "verbal_score": 28,
+    "total_score": 37,
+    "overall_pct": 37,
+    "quant_answers": [
+      {
+        "qn": 1,
+        "student_answer": "د",
+        "correct": false,
+        "sub_section": "هندسة",
+        "skill": "المثلث",
+        "difficulty": 1
+      },
+      {
+        "qn": 2,
+        "student_answer": "ج",
+        "correct": false,
+        "sub_section": "هندسة",
+        "skill": "المثلث",
+        "difficulty": 1
+      },
+      {
+        "qn": 3,
+        "student_answer": 3.0,
+        "correct": false,
+        "sub_section": "حساب",
+        "skill": "العمليات الحسابية الأربع",
+        "difficulty": 3
+      },
+      {
+        "qn": 4,
+        "student_answer": "ب",
+        "correct": false,
+        "sub_section": "هندسة",
+        "skill": "المحيطات والمساحات والحجوم",
+        "difficulty": 1
+      },
+      {
+        "qn": 5,
+        "student_answer": "المعطيات غير كافية",
+        "correct": false,
+        "sub_section": "هندسة",
+        "skill": "الزوايا",
+        "difficulty": 2
+      },
+      {
+        "qn": 6,
+        "student_answer": "القيمة الأولى أكبر",
+        "correct": false,
+        "sub_section": "حساب",
+        "skill": "العمليات الحسابية الأربع",
+        "difficulty": 1
+      },
+      {
+        "qn": 7,
+        "student_answer": "القيمة الثانية أكبر",
+        "correct": false,
+        "sub_section": "حساب",
+        "skill": "العمليات الحسابية الأربع",
+        "difficulty": 2
+      },
+      {
+        "qn": 8,
+        "student_answer": "القيمة الأولى أكبر",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "العمليات الحسابية الأربع",
+        "difficulty": 1
+      },
+      {
+        "qn": 9,
+        "student_answer": "القيمة الثانية أكبر",
+        "correct": false,
+        "sub_section": "هندسة",
+        "skill": "الأشكال الرباعية والمضلعات",
+        "difficulty": 3
+      },
+      {
+        "qn": 10,
+        "student_answer": "القيمة الأولى أكبر",
+        "correct": false,
+        "sub_section": "حساب",
+        "skill": "القواسم والمضاعفات والبواقي",
+        "difficulty": 1
+      },
+      {
+        "qn": 11,
+        "student_answer": "القيمتان متساويتان",
+        "correct": false,
+        "sub_section": "جبر",
+        "skill": "القوى",
+        "difficulty": 1
+      },
+      {
+        "qn": 12,
+        "student_answer": "أ",
+        "correct": false,
+        "sub_section": "حساب",
+        "skill": "العمليات الحسابية الأربع",
+        "difficulty": 2
+      },
+      {
+        "qn": 13,
+        "student_answer": "ج",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "العمليات الحسابية الأربع",
+        "difficulty": 1
+      },
+      {
+        "qn": 14,
+        "student_answer": "القيمة الأولى أكبر",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "النسبة والتناسب",
+        "difficulty": 2
+      },
+      {
+        "qn": 15,
+        "student_answer": "أ",
+        "correct": false,
+        "sub_section": "حساب",
+        "skill": "العمليات الحسابية الأربع",
+        "difficulty": 2
+      },
+      {
+        "qn": 16,
+        "student_answer": "أ",
+        "correct": false,
+        "sub_section": "حساب",
+        "skill": "قوانين الحركة",
+        "difficulty": 2
+      },
+      {
+        "qn": 17,
+        "student_answer": "د",
+        "correct": false,
+        "sub_section": "حساب",
+        "skill": "النسبة والتناسب",
+        "difficulty": 2
+      },
+      {
+        "qn": 18,
+        "student_answer": "ب",
+        "correct": false,
+        "sub_section": "حساب",
+        "skill": "الأعداد وخصائصها",
+        "difficulty": 2
+      },
+      {
+        "qn": 19,
+        "student_answer": "ج",
+        "correct": false,
+        "sub_section": "حساب",
+        "skill": "قوانين الحركة",
+        "difficulty": 2
+      },
+      {
+        "qn": 20,
+        "student_answer": "أ",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "الأعداد وخصائصها",
+        "difficulty": 2
+      },
+      {
+        "qn": 21,
+        "student_answer": "ج",
+        "correct": false,
+        "sub_section": "حساب",
+        "skill": "العمليات الحسابية الأربع",
+        "difficulty": 2
+      },
+      {
+        "qn": 22,
+        "student_answer": "د",
+        "correct": false,
+        "sub_section": "حساب",
+        "skill": "الأعداد وخصائصها",
+        "difficulty": 3
+      },
+      {
+        "qn": 23,
+        "student_answer": "أ",
+        "correct": false,
+        "sub_section": "حساب",
+        "skill": "قوانين الحركة",
+        "difficulty": 3
+      },
+      {
+        "qn": 24,
+        "student_answer": "ج",
+        "correct": false,
+        "sub_section": "جبر",
+        "skill": "معادلات الدرجة الأولي و الثانية و المعادلات الخطية بمجهولين",
+        "difficulty": 3
+      },
+      {
+        "qn": 25,
+        "student_answer": "ب",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "الانماط العددية",
+        "difficulty": 1
+      },
+      {
+        "qn": 26,
+        "student_answer": "ب",
+        "correct": false,
+        "sub_section": "حساب",
+        "skill": "العمليات الحسابية الأربع",
+        "difficulty": 3
+      },
+      {
+        "qn": 27,
+        "student_answer": "ب",
+        "correct": false,
+        "sub_section": "احصاء",
+        "skill": "تحليل البيانات و تفسيرها",
+        "difficulty": 2
+      },
+      {
+        "qn": 28,
+        "student_answer": "ج",
+        "correct": false,
+        "sub_section": "حساب",
+        "skill": "الكسور الاعتيادية و العمليات عليها",
+        "difficulty": 3
+      },
+      {
+        "qn": 29,
+        "student_answer": "ب",
+        "correct": false,
+        "sub_section": "حساب",
+        "skill": "النسبة والتناسب",
+        "difficulty": 2
+      },
+      {
+        "qn": 30,
+        "student_answer": "المعطيات غير كافية",
+        "correct": false,
+        "sub_section": "هندسة",
+        "skill": "المحيطات والمساحات والحجوم",
+        "difficulty": 2
+      },
+      {
+        "qn": 31,
+        "student_answer": "ب",
+        "correct": false,
+        "sub_section": "هندسة",
+        "skill": "الدائرة",
+        "difficulty": 2
+      },
+      {
+        "qn": 32,
+        "student_answer": "ج",
+        "correct": true,
+        "sub_section": "هندسة",
+        "skill": "الزوايا",
+        "difficulty": 2
+      },
+      {
+        "qn": 33,
+        "student_answer": "ب",
+        "correct": false,
+        "sub_section": "هندسة",
+        "skill": "الدائرة",
+        "difficulty": 3
+      },
+      {
+        "qn": 34,
+        "student_answer": "ب",
+        "correct": false,
+        "sub_section": "هندسة",
+        "skill": "المثلث",
+        "difficulty": 3
+      },
+      {
+        "qn": 35,
+        "student_answer": "القيمتان متساويتان",
+        "correct": false,
+        "sub_section": "حساب",
+        "skill": "الكسور الاعتيادية و العمليات عليها",
+        "difficulty": 1
+      },
+      {
+        "qn": 36,
+        "student_answer": "القيمة الثانية أكبر",
+        "correct": false,
+        "sub_section": "جبر",
+        "skill": "القوى",
+        "difficulty": 1
+      },
+      {
+        "qn": 37,
+        "student_answer": "ج",
+        "correct": false,
+        "sub_section": "احصاء",
+        "skill": "المتوسط الحسابي و الوسيط و المنوال",
+        "difficulty": 3
+      },
+      {
+        "qn": 38,
+        "student_answer": "ب",
+        "correct": false,
+        "sub_section": "احصاء",
+        "skill": "المتوسط الحسابي و الوسيط و المنوال",
+        "difficulty": 3
+      },
+      {
+        "qn": 39,
+        "student_answer": "ج",
+        "correct": true,
+        "sub_section": "احصاء",
+        "skill": "المتوسط الحسابي و الوسيط و المنوال",
+        "difficulty": 3
+      },
+      {
+        "qn": 40,
+        "student_answer": "أ",
+        "correct": false,
+        "sub_section": "احصاء",
+        "skill": "المتوسط الحسابي و الوسيط و المنوال",
+        "difficulty": 2
+      },
+      {
+        "qn": 41,
+        "student_answer": "أ",
+        "correct": false,
+        "sub_section": "احصاء",
+        "skill": "تحليل البيانات و تفسيرها",
+        "difficulty": 2
+      },
+      {
+        "qn": 42,
+        "student_answer": "ب",
+        "correct": true,
+        "sub_section": "احصاء",
+        "skill": "المتوسط الحسابي و الوسيط و المنوال",
+        "difficulty": 2
+      },
+      {
+        "qn": 43,
+        "student_answer": "أ",
+        "correct": false,
+        "sub_section": "احصاء",
+        "skill": "المتوسط الحسابي و الوسيط و المنوال",
+        "difficulty": 2
+      },
+      {
+        "qn": 44,
+        "student_answer": "ب",
+        "correct": false,
+        "sub_section": "احصاء",
+        "skill": "المتوسط الحسابي و الوسيط و المنوال",
+        "difficulty": 1
+      },
+      {
+        "qn": 45,
+        "student_answer": "ج",
+        "correct": false,
+        "sub_section": "جبر",
+        "skill": "القوى",
+        "difficulty": 2
+      },
+      {
+        "qn": 46,
+        "student_answer": "ج",
+        "correct": false,
+        "sub_section": "احصاء",
+        "skill": "الاحتمالات",
+        "difficulty": 1
+      },
+      {
+        "qn": 47,
+        "student_answer": "د",
+        "correct": true,
+        "sub_section": "جبر",
+        "skill": "المقادير الجبرية",
+        "difficulty": 3
+      },
+      {
+        "qn": 48,
+        "student_answer": "ب",
+        "correct": false,
+        "sub_section": "حساب",
+        "skill": "الكسور العشرية و العمليات عليها",
+        "difficulty": 2
+      },
+      {
+        "qn": 49,
+        "student_answer": "ج",
+        "correct": false,
+        "sub_section": "جبر",
+        "skill": "القوى",
+        "difficulty": 2
+      },
+      {
+        "qn": 50,
+        "student_answer": "ج",
+        "correct": false,
+        "sub_section": "حساب",
+        "skill": "العمليات الحسابية الأربع",
+        "difficulty": 1
+      }
+    ],
+    "verbal_answers": [
+      {
+        "qn": 1,
+        "student_answer": "رياضة : لياقة",
+        "correct": false,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 3
+      },
+      {
+        "qn": 2,
+        "student_answer": "مقره الرئيس",
+        "correct": false,
+        "sub_section": "القدرة الاستيعابية",
+        "skill": "استيعاب مقروء",
+        "difficulty": 3
+      },
+      {
+        "qn": 3,
+        "student_answer": "نطيحة",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "اكمال الجمل",
+        "difficulty": 3
+      },
+      {
+        "qn": 4,
+        "student_answer": "زاد",
+        "correct": false,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "خطأ سياقي",
+        "difficulty": 3
+      },
+      {
+        "qn": 5,
+        "student_answer": "دفن",
+        "correct": false,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 3
+      },
+      {
+        "qn": 6,
+        "student_answer": "مجتمع : بناء",
+        "correct": false,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 2
+      },
+      {
+        "qn": 7,
+        "student_answer": "وصفة : طبيب",
+        "correct": false,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 2
+      },
+      {
+        "qn": 8,
+        "student_answer": "صحيفة : خبر",
+        "correct": true,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 2
+      },
+      {
+        "qn": 9,
+        "student_answer": "حظيرة : أرنب",
+        "correct": false,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 2
+      },
+      {
+        "qn": 10,
+        "student_answer": "إضاءة : مصباح",
+        "correct": false,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 2
+      },
+      {
+        "qn": 11,
+        "student_answer": "الخيط",
+        "correct": true,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "استيعاب مقروء",
+        "difficulty": 2
+      },
+      {
+        "qn": 12,
+        "student_answer": "متوسطه",
+        "correct": true,
+        "sub_section": "القدرة الاستيعابية",
+        "skill": "استيعاب مقروء",
+        "difficulty": 2
+      },
+      {
+        "qn": 13,
+        "student_answer": "أزمة - قلق",
+        "correct": false,
+        "sub_section": "القدرة الاستيعابية",
+        "skill": "اكمال الجمل",
+        "difficulty": 2
+      },
+      {
+        "qn": 14,
+        "student_answer": "مجموعات - أزمنه",
+        "correct": false,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "اكمال الجمل",
+        "difficulty": 2
+      },
+      {
+        "qn": 15,
+        "student_answer": "الاهتمام - الحزن",
+        "correct": false,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "اكمال الجمل",
+        "difficulty": 2
+      },
+      {
+        "qn": 16,
+        "student_answer": "انتماء - اصل",
+        "correct": false,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "اكمال الجمل",
+        "difficulty": 2
+      },
+      {
+        "qn": 17,
+        "student_answer": "متكررة - تطوير",
+        "correct": false,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "اكمال الجمل",
+        "difficulty": 2
+      },
+      {
+        "qn": 18,
+        "student_answer": "بصير",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "مفردة شاذة",
+        "difficulty": 2
+      },
+      {
+        "qn": 19,
+        "student_answer": "مسجد قباء",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "مفردة شاذة",
+        "difficulty": 2
+      },
+      {
+        "qn": 20,
+        "student_answer": "الشعر",
+        "correct": true,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 2
+      },
+      {
+        "qn": 21,
+        "student_answer": "خافت",
+        "correct": true,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 2
+      },
+      {
+        "qn": 22,
+        "student_answer": "الحاذق",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "خطأ سياقي",
+        "difficulty": 2
+      },
+      {
+        "qn": 23,
+        "student_answer": "ألغى",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "خطأ سياقي",
+        "difficulty": 2
+      },
+      {
+        "qn": 24,
+        "student_answer": "عن",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "خطأ سياقي",
+        "difficulty": 2
+      },
+      {
+        "qn": 25,
+        "student_answer": "الأقل",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "خطأ سياقي",
+        "difficulty": 2
+      },
+      {
+        "qn": 26,
+        "student_answer": "جندي : سلاح",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "تناظر لفظي",
+        "difficulty": 1
+      },
+      {
+        "qn": 27,
+        "student_answer": "مدرجات : ملعب",
+        "correct": true,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 1
+      },
+      {
+        "qn": 28,
+        "student_answer": "راحة : نوم",
+        "correct": false,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 1
+      },
+      {
+        "qn": 29,
+        "student_answer": "المذاكرة : النجاح",
+        "correct": true,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 1
+      },
+      {
+        "qn": 30,
+        "student_answer": "فنجان : قهوة",
+        "correct": true,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 1
+      },
+      {
+        "qn": 31,
+        "student_answer": "طيارة : جـــو",
+        "correct": false,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 1
+      },
+      {
+        "qn": 32,
+        "student_answer": "بحر : سمكة",
+        "correct": false,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 1
+      },
+      {
+        "qn": 33,
+        "student_answer": "الوراثة",
+        "correct": true,
+        "sub_section": "القدرة الاستيعابية",
+        "skill": "استيعاب مقروء",
+        "difficulty": 1
+      },
+      {
+        "qn": 34,
+        "student_answer": "ترادف",
+        "correct": true,
+        "sub_section": "القدرة الاستيعابية",
+        "skill": "استيعاب مقروء",
+        "difficulty": 1
+      },
+      {
+        "qn": 35,
+        "student_answer": "جذب الشريك للتزاوج",
+        "correct": true,
+        "sub_section": "القدرة الاستيعابية",
+        "skill": "استيعاب مقروء",
+        "difficulty": 1
+      },
+      {
+        "qn": 36,
+        "student_answer": "أقل من الحيوانات الكبيرة",
+        "correct": false,
+        "sub_section": "القدرة الاستيعابية",
+        "skill": "استيعاب مقروء",
+        "difficulty": 1
+      },
+      {
+        "qn": 37,
+        "student_answer": "للخلف - للأعلى",
+        "correct": false,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "اكمال الجمل",
+        "difficulty": 1
+      },
+      {
+        "qn": 38,
+        "student_answer": "الخطايا - الجليد",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "اكمال الجمل",
+        "difficulty": 1
+      },
+      {
+        "qn": 39,
+        "student_answer": "السماحة - محبة",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "اكمال الجمل",
+        "difficulty": 1
+      },
+      {
+        "qn": 40,
+        "student_answer": "مذلّة - كبر",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "اكمال الجمل",
+        "difficulty": 1
+      },
+      {
+        "qn": 41,
+        "student_answer": "الخيري - العلم",
+        "correct": false,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "اكمال الجمل",
+        "difficulty": 1
+      },
+      {
+        "qn": 42,
+        "student_answer": "فضول",
+        "correct": false,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "خطأ سياقي",
+        "difficulty": 1
+      },
+      {
+        "qn": 43,
+        "student_answer": "معروفة",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "خطأ سياقي",
+        "difficulty": 1
+      },
+      {
+        "qn": 44,
+        "student_answer": "ينشر",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "خطأ سياقي",
+        "difficulty": 1
+      },
+      {
+        "qn": 45,
+        "student_answer": "دفة",
+        "correct": false,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "خطأ سياقي",
+        "difficulty": 1
+      },
+      {
+        "qn": 46,
+        "student_answer": "المرء",
+        "correct": false,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "خطأ سياقي",
+        "difficulty": 1
+      },
+      {
+        "qn": 47,
+        "student_answer": "تركيا",
+        "correct": true,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 1
+      },
+      {
+        "qn": 48,
+        "student_answer": "مصلّين",
+        "correct": true,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 1
+      },
+      {
+        "qn": 49,
+        "student_answer": "نملة",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "مفردة شاذة",
+        "difficulty": 1
+      },
+      {
+        "qn": 50,
+        "student_answer": "يد",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "مفردة شاذة",
+        "difficulty": 1
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-04-21 10:59:15.395000",
+    "name": "راما عبدالله ناصر الوهيبي",
+    "email": "ramaalwhyby36@gmail.com",
+    "gender": "انثي",
+    "student_phone": "0556367118",
+    "parent_phone": "0556367118",
+    "school": "رائدة السلام الاهليه",
+    "grade": "الثاني الثانوي",
+    "pin": "7118",
+    "quant_score": 41,
+    "verbal_score": 38,
+    "total_score": 79,
+    "overall_pct": 79,
+    "quant_answers": [
+      {
+        "qn": 1,
+        "student_answer": "ج",
+        "correct": true,
+        "sub_section": "هندسة",
+        "skill": "المثلث",
+        "difficulty": 1
+      },
+      {
+        "qn": 2,
+        "student_answer": "د",
+        "correct": true,
+        "sub_section": "هندسة",
+        "skill": "المثلث",
+        "difficulty": 1
+      },
+      {
+        "qn": 3,
+        "student_answer": 4.0,
+        "correct": false,
+        "sub_section": "حساب",
+        "skill": "العمليات الحسابية الأربع",
+        "difficulty": 3
+      },
+      {
+        "qn": 4,
+        "student_answer": "د",
+        "correct": true,
+        "sub_section": "هندسة",
+        "skill": "المحيطات والمساحات والحجوم",
+        "difficulty": 1
+      },
+      {
+        "qn": 5,
+        "student_answer": "القيمة الثانية أكبر",
+        "correct": true,
+        "sub_section": "هندسة",
+        "skill": "الزوايا",
+        "difficulty": 2
+      },
+      {
+        "qn": 6,
+        "student_answer": "القيمتان متساويتان",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "العمليات الحسابية الأربع",
+        "difficulty": 1
+      },
+      {
+        "qn": 7,
+        "student_answer": "المعطات غير كافية",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "العمليات الحسابية الأربع",
+        "difficulty": 2
+      },
+      {
+        "qn": 8,
+        "student_answer": "القيمة الأولى أكبر",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "العمليات الحسابية الأربع",
+        "difficulty": 1
+      },
+      {
+        "qn": 9,
+        "student_answer": "القيمتان متساويتان",
+        "correct": true,
+        "sub_section": "هندسة",
+        "skill": "الأشكال الرباعية والمضلعات",
+        "difficulty": 3
+      },
+      {
+        "qn": 10,
+        "student_answer": "القيمة الأولى أكبر",
+        "correct": false,
+        "sub_section": "حساب",
+        "skill": "القواسم والمضاعفات والبواقي",
+        "difficulty": 1
+      },
+      {
+        "qn": 11,
+        "student_answer": "المعطات غير كافية",
+        "correct": true,
+        "sub_section": "جبر",
+        "skill": "القوى",
+        "difficulty": 1
+      },
+      {
+        "qn": 12,
+        "student_answer": "ج",
+        "correct": false,
+        "sub_section": "حساب",
+        "skill": "العمليات الحسابية الأربع",
+        "difficulty": 2
+      },
+      {
+        "qn": 13,
+        "student_answer": "ب",
+        "correct": false,
+        "sub_section": "حساب",
+        "skill": "العمليات الحسابية الأربع",
+        "difficulty": 1
+      },
+      {
+        "qn": 14,
+        "student_answer": "القيمة الأولى أكبر",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "النسبة والتناسب",
+        "difficulty": 2
+      },
+      {
+        "qn": 15,
+        "student_answer": "د",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "العمليات الحسابية الأربع",
+        "difficulty": 2
+      },
+      {
+        "qn": 16,
+        "student_answer": "ج",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "قوانين الحركة",
+        "difficulty": 2
+      },
+      {
+        "qn": 17,
+        "student_answer": "د",
+        "correct": false,
+        "sub_section": "حساب",
+        "skill": "النسبة والتناسب",
+        "difficulty": 2
+      },
+      {
+        "qn": 18,
+        "student_answer": "ج",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "الأعداد وخصائصها",
+        "difficulty": 2
+      },
+      {
+        "qn": 19,
+        "student_answer": "د",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "قوانين الحركة",
+        "difficulty": 2
+      },
+      {
+        "qn": 20,
+        "student_answer": "أ",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "الأعداد وخصائصها",
+        "difficulty": 2
+      },
+      {
+        "qn": 21,
+        "student_answer": "د",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "العمليات الحسابية الأربع",
+        "difficulty": 2
+      },
+      {
+        "qn": 22,
+        "student_answer": "ج",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "الأعداد وخصائصها",
+        "difficulty": 3
+      },
+      {
+        "qn": 23,
+        "student_answer": "ب",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "قوانين الحركة",
+        "difficulty": 3
+      },
+      {
+        "qn": 24,
+        "student_answer": "أ",
+        "correct": false,
+        "sub_section": "جبر",
+        "skill": "معادلات الدرجة الأولي و الثانية و المعادلات الخطية بمجهولين",
+        "difficulty": 3
+      },
+      {
+        "qn": 25,
+        "student_answer": "ب",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "الانماط العددية",
+        "difficulty": 1
+      },
+      {
+        "qn": 26,
+        "student_answer": "ج",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "العمليات الحسابية الأربع",
+        "difficulty": 3
+      },
+      {
+        "qn": 27,
+        "student_answer": "ج",
+        "correct": true,
+        "sub_section": "احصاء",
+        "skill": "تحليل البيانات و تفسيرها",
+        "difficulty": 2
+      },
+      {
+        "qn": 28,
+        "student_answer": "د",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "الكسور الاعتيادية و العمليات عليها",
+        "difficulty": 3
+      },
+      {
+        "qn": 29,
+        "student_answer": "ج",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "النسبة والتناسب",
+        "difficulty": 2
+      },
+      {
+        "qn": 30,
+        "student_answer": "القيمة الثانية أكبر",
+        "correct": true,
+        "sub_section": "هندسة",
+        "skill": "المحيطات والمساحات والحجوم",
+        "difficulty": 2
+      },
+      {
+        "qn": 31,
+        "student_answer": "د",
+        "correct": true,
+        "sub_section": "هندسة",
+        "skill": "الدائرة",
+        "difficulty": 2
+      },
+      {
+        "qn": 32,
+        "student_answer": "ج",
+        "correct": true,
+        "sub_section": "هندسة",
+        "skill": "الزوايا",
+        "difficulty": 2
+      },
+      {
+        "qn": 33,
+        "student_answer": "ج",
+        "correct": true,
+        "sub_section": "هندسة",
+        "skill": "الدائرة",
+        "difficulty": 3
+      },
+      {
+        "qn": 34,
+        "student_answer": "د",
+        "correct": true,
+        "sub_section": "هندسة",
+        "skill": "المثلث",
+        "difficulty": 3
+      },
+      {
+        "qn": 35,
+        "student_answer": "القيمة الأولى أكبر",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "الكسور الاعتيادية و العمليات عليها",
+        "difficulty": 1
+      },
+      {
+        "qn": 36,
+        "student_answer": "القيمة الأولى أكبر",
+        "correct": true,
+        "sub_section": "جبر",
+        "skill": "القوى",
+        "difficulty": 1
+      },
+      {
+        "qn": 37,
+        "student_answer": "ب",
+        "correct": true,
+        "sub_section": "احصاء",
+        "skill": "المتوسط الحسابي و الوسيط و المنوال",
+        "difficulty": 3
+      },
+      {
+        "qn": 38,
+        "student_answer": "د",
+        "correct": true,
+        "sub_section": "احصاء",
+        "skill": "المتوسط الحسابي و الوسيط و المنوال",
+        "difficulty": 3
+      },
+      {
+        "qn": 39,
+        "student_answer": "ج",
+        "correct": true,
+        "sub_section": "احصاء",
+        "skill": "المتوسط الحسابي و الوسيط و المنوال",
+        "difficulty": 3
+      },
+      {
+        "qn": 40,
+        "student_answer": "ج",
+        "correct": true,
+        "sub_section": "احصاء",
+        "skill": "المتوسط الحسابي و الوسيط و المنوال",
+        "difficulty": 2
+      },
+      {
+        "qn": 41,
+        "student_answer": "ب",
+        "correct": false,
+        "sub_section": "احصاء",
+        "skill": "تحليل البيانات و تفسيرها",
+        "difficulty": 2
+      },
+      {
+        "qn": 42,
+        "student_answer": "ب",
+        "correct": true,
+        "sub_section": "احصاء",
+        "skill": "المتوسط الحسابي و الوسيط و المنوال",
+        "difficulty": 2
+      },
+      {
+        "qn": 43,
+        "student_answer": "ب",
+        "correct": true,
+        "sub_section": "احصاء",
+        "skill": "المتوسط الحسابي و الوسيط و المنوال",
+        "difficulty": 2
+      },
+      {
+        "qn": 44,
+        "student_answer": "ب",
+        "correct": false,
+        "sub_section": "احصاء",
+        "skill": "المتوسط الحسابي و الوسيط و المنوال",
+        "difficulty": 1
+      },
+      {
+        "qn": 45,
+        "student_answer": "ب",
+        "correct": true,
+        "sub_section": "جبر",
+        "skill": "القوى",
+        "difficulty": 2
+      },
+      {
+        "qn": 46,
+        "student_answer": "ب",
+        "correct": true,
+        "sub_section": "احصاء",
+        "skill": "الاحتمالات",
+        "difficulty": 1
+      },
+      {
+        "qn": 47,
+        "student_answer": "أ",
+        "correct": false,
+        "sub_section": "جبر",
+        "skill": "المقادير الجبرية",
+        "difficulty": 3
+      },
+      {
+        "qn": 48,
+        "student_answer": "أ",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "الكسور العشرية و العمليات عليها",
+        "difficulty": 2
+      },
+      {
+        "qn": 49,
+        "student_answer": "أ",
+        "correct": true,
+        "sub_section": "جبر",
+        "skill": "القوى",
+        "difficulty": 2
+      },
+      {
+        "qn": 50,
+        "student_answer": "ب",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "العمليات الحسابية الأربع",
+        "difficulty": 1
+      }
+    ],
+    "verbal_answers": [
+      {
+        "qn": 1,
+        "student_answer": "صِفات : شَمائِل",
+        "correct": true,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 3
+      },
+      {
+        "qn": 2,
+        "student_answer": "مقره الرئيس",
+        "correct": false,
+        "sub_section": "القدرة الاستيعابية",
+        "skill": "استيعاب مقروء",
+        "difficulty": 3
+      },
+      {
+        "qn": 3,
+        "student_answer": "ضيقة",
+        "correct": false,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "اكمال الجمل",
+        "difficulty": 3
+      },
+      {
+        "qn": 4,
+        "student_answer": "عقله",
+        "correct": false,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "خطأ سياقي",
+        "difficulty": 3
+      },
+      {
+        "qn": 5,
+        "student_answer": "دفن",
+        "correct": false,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 3
+      },
+      {
+        "qn": 6,
+        "student_answer": "حامض : ليمون",
+        "correct": true,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 2
+      },
+      {
+        "qn": 7,
+        "student_answer": "زراعة : حصاد",
+        "correct": false,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 2
+      },
+      {
+        "qn": 8,
+        "student_answer": "صحيفة : خبر",
+        "correct": true,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 2
+      },
+      {
+        "qn": 9,
+        "student_answer": "حظيرة : أرنب",
+        "correct": false,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 2
+      },
+      {
+        "qn": 10,
+        "student_answer": "صوم : جوع",
+        "correct": false,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 2
+      },
+      {
+        "qn": 11,
+        "student_answer": "السمحاق",
+        "correct": false,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "استيعاب مقروء",
+        "difficulty": 2
+      },
+      {
+        "qn": 12,
+        "student_answer": "متوسطه",
+        "correct": true,
+        "sub_section": "القدرة الاستيعابية",
+        "skill": "استيعاب مقروء",
+        "difficulty": 2
+      },
+      {
+        "qn": 13,
+        "student_answer": "أزمة - قلق",
+        "correct": false,
+        "sub_section": "القدرة الاستيعابية",
+        "skill": "اكمال الجمل",
+        "difficulty": 2
+      },
+      {
+        "qn": 14,
+        "student_answer": "أفواج - رحله",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "اكمال الجمل",
+        "difficulty": 2
+      },
+      {
+        "qn": 15,
+        "student_answer": "الطعام - الآثام",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "اكمال الجمل",
+        "difficulty": 2
+      },
+      {
+        "qn": 16,
+        "student_answer": "رقي - روح",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "اكمال الجمل",
+        "difficulty": 2
+      },
+      {
+        "qn": 17,
+        "student_answer": "شرسة - طمس",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "اكمال الجمل",
+        "difficulty": 2
+      },
+      {
+        "qn": 18,
+        "student_answer": "بصير",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "مفردة شاذة",
+        "difficulty": 2
+      },
+      {
+        "qn": 19,
+        "student_answer": "مسجد قباء",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "مفردة شاذة",
+        "difficulty": 2
+      },
+      {
+        "qn": 20,
+        "student_answer": "الشعر",
+        "correct": true,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 2
+      },
+      {
+        "qn": 21,
+        "student_answer": "خافت",
+        "correct": true,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 2
+      },
+      {
+        "qn": 22,
+        "student_answer": "النجاح",
+        "correct": false,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "خطأ سياقي",
+        "difficulty": 2
+      },
+      {
+        "qn": 23,
+        "student_answer": "ألغى",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "خطأ سياقي",
+        "difficulty": 2
+      },
+      {
+        "qn": 24,
+        "student_answer": "عن",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "خطأ سياقي",
+        "difficulty": 2
+      },
+      {
+        "qn": 25,
+        "student_answer": "الأقل",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "خطأ سياقي",
+        "difficulty": 2
+      },
+      {
+        "qn": 26,
+        "student_answer": "جندي : سلاح",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "تناظر لفظي",
+        "difficulty": 1
+      },
+      {
+        "qn": 27,
+        "student_answer": "مدرجات : ملعب",
+        "correct": true,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 1
+      },
+      {
+        "qn": 28,
+        "student_answer": "صلة الرحم : سعة الرزق",
+        "correct": true,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 1
+      },
+      {
+        "qn": 29,
+        "student_answer": "المذاكرة : النجاح",
+        "correct": true,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 1
+      },
+      {
+        "qn": 30,
+        "student_answer": "فنجان : قهوة",
+        "correct": true,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 1
+      },
+      {
+        "qn": 31,
+        "student_answer": "حداد : حديد",
+        "correct": true,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 1
+      },
+      {
+        "qn": 32,
+        "student_answer": "نجم : سماء",
+        "correct": true,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 1
+      },
+      {
+        "qn": 33,
+        "student_answer": "الوراثة",
+        "correct": true,
+        "sub_section": "القدرة الاستيعابية",
+        "skill": "استيعاب مقروء",
+        "difficulty": 1
+      },
+      {
+        "qn": 34,
+        "student_answer": "ترادف",
+        "correct": true,
+        "sub_section": "القدرة الاستيعابية",
+        "skill": "استيعاب مقروء",
+        "difficulty": 1
+      },
+      {
+        "qn": 35,
+        "student_answer": "جذب الشريك للتزاوج",
+        "correct": true,
+        "sub_section": "القدرة الاستيعابية",
+        "skill": "استيعاب مقروء",
+        "difficulty": 1
+      },
+      {
+        "qn": 36,
+        "student_answer": "أكثر من الحيوانات الكبيرة",
+        "correct": true,
+        "sub_section": "القدرة الاستيعابية",
+        "skill": "استيعاب مقروء",
+        "difficulty": 1
+      },
+      {
+        "qn": 37,
+        "student_answer": "للوراء - للخلف",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "اكمال الجمل",
+        "difficulty": 1
+      },
+      {
+        "qn": 38,
+        "student_answer": "الكرم - الألم",
+        "correct": false,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "اكمال الجمل",
+        "difficulty": 1
+      },
+      {
+        "qn": 39,
+        "student_answer": "السماحة - محبة",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "اكمال الجمل",
+        "difficulty": 1
+      },
+      {
+        "qn": 40,
+        "student_answer": "مذلّة - كبر",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "اكمال الجمل",
+        "difficulty": 1
+      },
+      {
+        "qn": 41,
+        "student_answer": "التطوعي - التكافل",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "اكمال الجمل",
+        "difficulty": 1
+      },
+      {
+        "qn": 42,
+        "student_answer": "مرارة",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "خطأ سياقي",
+        "difficulty": 1
+      },
+      {
+        "qn": 43,
+        "student_answer": "معروفة",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "خطأ سياقي",
+        "difficulty": 1
+      },
+      {
+        "qn": 44,
+        "student_answer": "ينشر",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "خطأ سياقي",
+        "difficulty": 1
+      },
+      {
+        "qn": 45,
+        "student_answer": "يبدأ",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "خطأ سياقي",
+        "difficulty": 1
+      },
+      {
+        "qn": 46,
+        "student_answer": "الطويل",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "خطأ سياقي",
+        "difficulty": 1
+      },
+      {
+        "qn": 47,
+        "student_answer": "ليبيا",
+        "correct": false,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 1
+      },
+      {
+        "qn": 48,
+        "student_answer": "مصلّين",
+        "correct": true,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 1
+      },
+      {
+        "qn": 49,
+        "student_answer": "نملة",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "مفردة شاذة",
+        "difficulty": 1
+      },
+      {
+        "qn": 50,
+        "student_answer": "يد",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "مفردة شاذة",
+        "difficulty": 1
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-04-21 10:54:38.363000",
+    "name": "حسام عبد الرحمن الاحيدب",
+    "email": "hsamalahydb@gmail.com",
+    "gender": "ذكر",
+    "student_phone": "0595977937",
+    "parent_phone": "0568688986",
+    "school": "ثانوية الشيخ عبد العزيز بن باز",
+    "grade": "الاول الثانوي",
+    "pin": "7937",
+    "quant_score": 22,
+    "verbal_score": 29,
+    "total_score": 51,
+    "overall_pct": 51,
+    "quant_answers": [
+      {
+        "qn": 1,
+        "student_answer": "أ",
+        "correct": false,
+        "sub_section": "هندسة",
+        "skill": "المثلث",
+        "difficulty": 1
+      },
+      {
+        "qn": 2,
+        "student_answer": "ج",
+        "correct": false,
+        "sub_section": "هندسة",
+        "skill": "المثلث",
+        "difficulty": 1
+      },
+      {
+        "qn": 3,
+        "student_answer": 4.0,
+        "correct": false,
+        "sub_section": "حساب",
+        "skill": "العمليات الحسابية الأربع",
+        "difficulty": 3
+      },
+      {
+        "qn": 4,
+        "student_answer": "ب",
+        "correct": false,
+        "sub_section": "هندسة",
+        "skill": "المحيطات والمساحات والحجوم",
+        "difficulty": 1
+      },
+      {
+        "qn": 5,
+        "student_answer": "القيمة الثانية أكبر",
+        "correct": true,
+        "sub_section": "هندسة",
+        "skill": "الزوايا",
+        "difficulty": 2
+      },
+      {
+        "qn": 6,
+        "student_answer": "القيمة الأولى أكبر",
+        "correct": false,
+        "sub_section": "حساب",
+        "skill": "العمليات الحسابية الأربع",
+        "difficulty": 1
+      },
+      {
+        "qn": 7,
+        "student_answer": "المعطات غير كافية",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "العمليات الحسابية الأربع",
+        "difficulty": 2
+      },
+      {
+        "qn": 8,
+        "student_answer": "القيمة الأولى أكبر",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "العمليات الحسابية الأربع",
+        "difficulty": 1
+      },
+      {
+        "qn": 9,
+        "student_answer": "القيمة الأولى أكبر",
+        "correct": false,
+        "sub_section": "هندسة",
+        "skill": "الأشكال الرباعية والمضلعات",
+        "difficulty": 3
+      },
+      {
+        "qn": 10,
+        "student_answer": "القيمة الأولى أكبر",
+        "correct": false,
+        "sub_section": "حساب",
+        "skill": "القواسم والمضاعفات والبواقي",
+        "difficulty": 1
+      },
+      {
+        "qn": 11,
+        "student_answer": "القيمة الثانية أكبر",
+        "correct": false,
+        "sub_section": "جبر",
+        "skill": "القوى",
+        "difficulty": 1
+      },
+      {
+        "qn": 12,
+        "student_answer": "ب",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "العمليات الحسابية الأربع",
+        "difficulty": 2
+      },
+      {
+        "qn": 13,
+        "student_answer": "ج",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "العمليات الحسابية الأربع",
+        "difficulty": 1
+      },
+      {
+        "qn": 14,
+        "student_answer": "القيمة الأولى أكبر",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "النسبة والتناسب",
+        "difficulty": 2
+      },
+      {
+        "qn": 15,
+        "student_answer": "ب",
+        "correct": false,
+        "sub_section": "حساب",
+        "skill": "العمليات الحسابية الأربع",
+        "difficulty": 2
+      },
+      {
+        "qn": 16,
+        "student_answer": "ج",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "قوانين الحركة",
+        "difficulty": 2
+      },
+      {
+        "qn": 17,
+        "student_answer": "أ",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "النسبة والتناسب",
+        "difficulty": 2
+      },
+      {
+        "qn": 18,
+        "student_answer": "ج",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "الأعداد وخصائصها",
+        "difficulty": 2
+      },
+      {
+        "qn": 19,
+        "student_answer": "د",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "قوانين الحركة",
+        "difficulty": 2
+      },
+      {
+        "qn": 20,
+        "student_answer": "ب",
+        "correct": false,
+        "sub_section": "حساب",
+        "skill": "الأعداد وخصائصها",
+        "difficulty": 2
+      },
+      {
+        "qn": 21,
+        "student_answer": "د",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "العمليات الحسابية الأربع",
+        "difficulty": 2
+      },
+      {
+        "qn": 22,
+        "student_answer": "د",
+        "correct": false,
+        "sub_section": "حساب",
+        "skill": "الأعداد وخصائصها",
+        "difficulty": 3
+      },
+      {
+        "qn": 23,
+        "student_answer": "أ",
+        "correct": false,
+        "sub_section": "حساب",
+        "skill": "قوانين الحركة",
+        "difficulty": 3
+      },
+      {
+        "qn": 24,
+        "student_answer": "ج",
+        "correct": false,
+        "sub_section": "جبر",
+        "skill": "معادلات الدرجة الأولي و الثانية و المعادلات الخطية بمجهولين",
+        "difficulty": 3
+      },
+      {
+        "qn": 25,
+        "student_answer": "ب",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "الانماط العددية",
+        "difficulty": 1
+      },
+      {
+        "qn": 26,
+        "student_answer": "ج",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "العمليات الحسابية الأربع",
+        "difficulty": 3
+      },
+      {
+        "qn": 27,
+        "student_answer": "ب",
+        "correct": false,
+        "sub_section": "احصاء",
+        "skill": "تحليل البيانات و تفسيرها",
+        "difficulty": 2
+      },
+      {
+        "qn": 28,
+        "student_answer": "د",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "الكسور الاعتيادية و العمليات عليها",
+        "difficulty": 3
+      },
+      {
+        "qn": 29,
+        "student_answer": "ج",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "النسبة والتناسب",
+        "difficulty": 2
+      },
+      {
+        "qn": 30,
+        "student_answer": "القيمة الأولى أكبر",
+        "correct": false,
+        "sub_section": "هندسة",
+        "skill": "المحيطات والمساحات والحجوم",
+        "difficulty": 2
+      },
+      {
+        "qn": 31,
+        "student_answer": "ب",
+        "correct": false,
+        "sub_section": "هندسة",
+        "skill": "الدائرة",
+        "difficulty": 2
+      },
+      {
+        "qn": 32,
+        "student_answer": "ج",
+        "correct": true,
+        "sub_section": "هندسة",
+        "skill": "الزوايا",
+        "difficulty": 2
+      },
+      {
+        "qn": 33,
+        "student_answer": "ب",
+        "correct": false,
+        "sub_section": "هندسة",
+        "skill": "الدائرة",
+        "difficulty": 3
+      },
+      {
+        "qn": 34,
+        "student_answer": "ب",
+        "correct": false,
+        "sub_section": "هندسة",
+        "skill": "المثلث",
+        "difficulty": 3
+      },
+      {
+        "qn": 35,
+        "student_answer": "القيمة الأولى أكبر",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "الكسور الاعتيادية و العمليات عليها",
+        "difficulty": 1
+      },
+      {
+        "qn": 36,
+        "student_answer": "القيمتان متساويتان",
+        "correct": false,
+        "sub_section": "جبر",
+        "skill": "القوى",
+        "difficulty": 1
+      },
+      {
+        "qn": 37,
+        "student_answer": "ب",
+        "correct": true,
+        "sub_section": "احصاء",
+        "skill": "المتوسط الحسابي و الوسيط و المنوال",
+        "difficulty": 3
+      },
+      {
+        "qn": 38,
+        "student_answer": "ج",
+        "correct": false,
+        "sub_section": "احصاء",
+        "skill": "المتوسط الحسابي و الوسيط و المنوال",
+        "difficulty": 3
+      },
+      {
+        "qn": 39,
+        "student_answer": "ج",
+        "correct": true,
+        "sub_section": "احصاء",
+        "skill": "المتوسط الحسابي و الوسيط و المنوال",
+        "difficulty": 3
+      },
+      {
+        "qn": 40,
+        "student_answer": "د",
+        "correct": false,
+        "sub_section": "احصاء",
+        "skill": "المتوسط الحسابي و الوسيط و المنوال",
+        "difficulty": 2
+      },
+      {
+        "qn": 41,
+        "student_answer": "د",
+        "correct": false,
+        "sub_section": "احصاء",
+        "skill": "تحليل البيانات و تفسيرها",
+        "difficulty": 2
+      },
+      {
+        "qn": 42,
+        "student_answer": "ج",
+        "correct": false,
+        "sub_section": "احصاء",
+        "skill": "المتوسط الحسابي و الوسيط و المنوال",
+        "difficulty": 2
+      },
+      {
+        "qn": 43,
+        "student_answer": "د",
+        "correct": false,
+        "sub_section": "احصاء",
+        "skill": "المتوسط الحسابي و الوسيط و المنوال",
+        "difficulty": 2
+      },
+      {
+        "qn": 44,
+        "student_answer": "ج",
+        "correct": true,
+        "sub_section": "احصاء",
+        "skill": "المتوسط الحسابي و الوسيط و المنوال",
+        "difficulty": 1
+      },
+      {
+        "qn": 45,
+        "student_answer": "د",
+        "correct": false,
+        "sub_section": "جبر",
+        "skill": "القوى",
+        "difficulty": 2
+      },
+      {
+        "qn": 46,
+        "student_answer": "ب",
+        "correct": true,
+        "sub_section": "احصاء",
+        "skill": "الاحتمالات",
+        "difficulty": 1
+      },
+      {
+        "qn": 47,
+        "student_answer": "أ",
+        "correct": false,
+        "sub_section": "جبر",
+        "skill": "المقادير الجبرية",
+        "difficulty": 3
+      },
+      {
+        "qn": 48,
+        "student_answer": "ب",
+        "correct": false,
+        "sub_section": "حساب",
+        "skill": "الكسور العشرية و العمليات عليها",
+        "difficulty": 2
+      },
+      {
+        "qn": 49,
+        "student_answer": "ج",
+        "correct": false,
+        "sub_section": "جبر",
+        "skill": "القوى",
+        "difficulty": 2
+      },
+      {
+        "qn": 50,
+        "student_answer": "ب",
+        "correct": true,
+        "sub_section": "حساب",
+        "skill": "العمليات الحسابية الأربع",
+        "difficulty": 1
+      }
+    ],
+    "verbal_answers": [
+      {
+        "qn": 1,
+        "student_answer": "رياضة : لياقة",
+        "correct": false,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 3
+      },
+      {
+        "qn": 2,
+        "student_answer": "تعدد طرائقة",
+        "correct": true,
+        "sub_section": "القدرة الاستيعابية",
+        "skill": "استيعاب مقروء",
+        "difficulty": 3
+      },
+      {
+        "qn": 3,
+        "student_answer": "ضيقة",
+        "correct": false,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "اكمال الجمل",
+        "difficulty": 3
+      },
+      {
+        "qn": 4,
+        "student_answer": "أوفر",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "خطأ سياقي",
+        "difficulty": 3
+      },
+      {
+        "qn": 5,
+        "student_answer": "موت",
+        "correct": true,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 3
+      },
+      {
+        "qn": 6,
+        "student_answer": "علاج : شفاء",
+        "correct": false,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 2
+      },
+      {
+        "qn": 7,
+        "student_answer": "طعام : ضيف",
+        "correct": true,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 2
+      },
+      {
+        "qn": 8,
+        "student_answer": "صحيفة : خبر",
+        "correct": true,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 2
+      },
+      {
+        "qn": 9,
+        "student_answer": "فم : أسنان",
+        "correct": false,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 2
+      },
+      {
+        "qn": 10,
+        "student_answer": "إضاءة : مصباح",
+        "correct": false,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 2
+      },
+      {
+        "qn": 11,
+        "student_answer": "السمحاق",
+        "correct": false,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "استيعاب مقروء",
+        "difficulty": 2
+      },
+      {
+        "qn": 12,
+        "student_answer": "متوسطه",
+        "correct": true,
+        "sub_section": "القدرة الاستيعابية",
+        "skill": "استيعاب مقروء",
+        "difficulty": 2
+      },
+      {
+        "qn": 13,
+        "student_answer": "أزمة - قلق",
+        "correct": false,
+        "sub_section": "القدرة الاستيعابية",
+        "skill": "اكمال الجمل",
+        "difficulty": 2
+      },
+      {
+        "qn": 14,
+        "student_answer": "مجموعات - أزمنه",
+        "correct": false,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "اكمال الجمل",
+        "difficulty": 2
+      },
+      {
+        "qn": 15,
+        "student_answer": "الاهتمام - الحزن",
+        "correct": false,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "اكمال الجمل",
+        "difficulty": 2
+      },
+      {
+        "qn": 16,
+        "student_answer": "انتماء - اصل",
+        "correct": false,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "اكمال الجمل",
+        "difficulty": 2
+      },
+      {
+        "qn": 17,
+        "student_answer": "قوية - ترك",
+        "correct": false,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "اكمال الجمل",
+        "difficulty": 2
+      },
+      {
+        "qn": 18,
+        "student_answer": "بصير",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "مفردة شاذة",
+        "difficulty": 2
+      },
+      {
+        "qn": 19,
+        "student_answer": "المسجد الأقصى",
+        "correct": false,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "مفردة شاذة",
+        "difficulty": 2
+      },
+      {
+        "qn": 20,
+        "student_answer": "الشعر",
+        "correct": true,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 2
+      },
+      {
+        "qn": 21,
+        "student_answer": "خافت",
+        "correct": true,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 2
+      },
+      {
+        "qn": 22,
+        "student_answer": "الحاذق",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "خطأ سياقي",
+        "difficulty": 2
+      },
+      {
+        "qn": 23,
+        "student_answer": "فقد",
+        "correct": false,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "خطأ سياقي",
+        "difficulty": 2
+      },
+      {
+        "qn": 24,
+        "student_answer": "النجاح",
+        "correct": false,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "خطأ سياقي",
+        "difficulty": 2
+      },
+      {
+        "qn": 25,
+        "student_answer": "الأقل",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "خطأ سياقي",
+        "difficulty": 2
+      },
+      {
+        "qn": 26,
+        "student_answer": "جندي : سلاح",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "تناظر لفظي",
+        "difficulty": 1
+      },
+      {
+        "qn": 27,
+        "student_answer": "مدرجات : ملعب",
+        "correct": true,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 1
+      },
+      {
+        "qn": 28,
+        "student_answer": "صلة الرحم : سعة الرزق",
+        "correct": true,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 1
+      },
+      {
+        "qn": 29,
+        "student_answer": "المذاكرة : النجاح",
+        "correct": true,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 1
+      },
+      {
+        "qn": 30,
+        "student_answer": "فنجان : قهوة",
+        "correct": true,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 1
+      },
+      {
+        "qn": 31,
+        "student_answer": "مطر : برق",
+        "correct": false,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 1
+      },
+      {
+        "qn": 32,
+        "student_answer": "نجم : سماء",
+        "correct": true,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 1
+      },
+      {
+        "qn": 33,
+        "student_answer": "الوباء النفسي",
+        "correct": false,
+        "sub_section": "القدرة الاستيعابية",
+        "skill": "استيعاب مقروء",
+        "difficulty": 1
+      },
+      {
+        "qn": 34,
+        "student_answer": "ترادف",
+        "correct": true,
+        "sub_section": "القدرة الاستيعابية",
+        "skill": "استيعاب مقروء",
+        "difficulty": 1
+      },
+      {
+        "qn": 35,
+        "student_answer": "جذب الشريك للتزاوج",
+        "correct": true,
+        "sub_section": "القدرة الاستيعابية",
+        "skill": "استيعاب مقروء",
+        "difficulty": 1
+      },
+      {
+        "qn": 36,
+        "student_answer": "أكثر من الحيوانات الكبيرة",
+        "correct": true,
+        "sub_section": "القدرة الاستيعابية",
+        "skill": "استيعاب مقروء",
+        "difficulty": 1
+      },
+      {
+        "qn": 37,
+        "student_answer": "للوراء - للخلف",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "اكمال الجمل",
+        "difficulty": 1
+      },
+      {
+        "qn": 38,
+        "student_answer": "الكرم - الألم",
+        "correct": false,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "اكمال الجمل",
+        "difficulty": 1
+      },
+      {
+        "qn": 39,
+        "student_answer": "السماحة - محبة",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "اكمال الجمل",
+        "difficulty": 1
+      },
+      {
+        "qn": 40,
+        "student_answer": "مذلّة - كبر",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "اكمال الجمل",
+        "difficulty": 1
+      },
+      {
+        "qn": 41,
+        "student_answer": "التطوعي - التكافل",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "اكمال الجمل",
+        "difficulty": 1
+      },
+      {
+        "qn": 42,
+        "student_answer": "العبادة",
+        "correct": false,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "خطأ سياقي",
+        "difficulty": 1
+      },
+      {
+        "qn": 43,
+        "student_answer": "شهرته",
+        "correct": false,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "خطأ سياقي",
+        "difficulty": 1
+      },
+      {
+        "qn": 44,
+        "student_answer": "عيوبك",
+        "correct": false,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "خطأ سياقي",
+        "difficulty": 1
+      },
+      {
+        "qn": 45,
+        "student_answer": "دفة",
+        "correct": false,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "خطأ سياقي",
+        "difficulty": 1
+      },
+      {
+        "qn": 46,
+        "student_answer": "الطويل",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "خطأ سياقي",
+        "difficulty": 1
+      },
+      {
+        "qn": 47,
+        "student_answer": "تركيا",
+        "correct": true,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 1
+      },
+      {
+        "qn": 48,
+        "student_answer": "مصلّين",
+        "correct": true,
+        "sub_section": "العلاقات الدلالية",
+        "skill": "تناظر لفظي",
+        "difficulty": 1
+      },
+      {
+        "qn": 49,
+        "student_answer": "نملة",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "مفردة شاذة",
+        "difficulty": 1
+      },
+      {
+        "qn": 50,
+        "student_answer": "يد",
+        "correct": true,
+        "sub_section": "التراكيب اللغوية",
+        "skill": "مفردة شاذة",
+        "difficulty": 1
+      }
+    ]
+  }
+]
