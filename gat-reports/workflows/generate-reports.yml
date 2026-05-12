@@ -1,0 +1,69 @@
+name: Generate GAT Reports
+
+on:
+  repository_dispatch:
+    types: [generate-reports]
+  workflow_dispatch:         # manual trigger from GitHub UI
+
+permissions:
+  contents: write
+  pages: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install openpyxl
+
+      - name: Export responses from Google Sheets
+        env:
+          SHEET_ID: "19IAR1myMudRCyt4Ipl6ckpVaXr8QdZi7bgdx8oxKrtk"
+        run: |
+          curl -sL "https://docs.google.com/spreadsheets/d/${SHEET_ID}/export?format=csv&gid=477683641" \
+            -o gat-reports/responses.csv
+          echo "Downloaded $(wc -l < gat-reports/responses.csv) lines from Google Sheets"
+
+      - name: Generate reports
+        working-directory: gat-reports
+        run: |
+          python generate_reports.py \
+            --question-bank ../GAT_Question_Bank.xlsx \
+            --responses responses.csv \
+            --output-dir docs/ \
+            --logo-path "../noon logo v2.png"
+
+      - name: Commit and push generated reports
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add gat-reports/docs/
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: regenerate GAT reports [automated]"
+            git push
+          fi
+
+      - name: Notify Apps Script (update status)
+        if: ${{ github.event.client_payload.sheet_row }}
+        env:
+          APPS_SCRIPT_URL: ${{ secrets.APPS_SCRIPT_CALLBACK_URL }}
+        run: |
+          if [ -n "$APPS_SCRIPT_URL" ]; then
+            curl -sL -X POST "$APPS_SCRIPT_URL" \
+              -H "Content-Type: application/json" \
+              -d '{"sheet_row": ${{ github.event.client_payload.sheet_row }}}'
+            echo "Status callback sent for row ${{ github.event.client_payload.sheet_row }}"
+          else
+            echo "APPS_SCRIPT_CALLBACK_URL not set, skipping status update"
+          fi
