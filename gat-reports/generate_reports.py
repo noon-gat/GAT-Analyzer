@@ -202,7 +202,7 @@ def load_responses(path, verbal_questions, quant_questions):
             date_str = timestamp.split(' ')[0] if timestamp else ''
 
         # Phone number (last 4 digits for PIN)
-        phone = row[7].strip() if len(row) > 7 else ''
+        phone = row[6].strip() if len(row) > 7 else ''
         pin = phone[-4:] if len(phone) >= 4 else '0000'
 
         # Parse verbal
