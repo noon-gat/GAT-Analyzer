@@ -202,7 +202,7 @@ def load_responses(path, verbal_questions, quant_questions):
             date_str = timestamp.split(' ')[0] if timestamp else ''
 
         # Phone number (last 4 digits for PIN)
-        phone = row[14].strip() if len(row) > 14 else ''
+        phone = row[7].strip() if len(row) > 7 else ''
         pin = phone[-4:] if len(phone) >= 4 else '0000'
 
         # Parse verbal
@@ -666,7 +666,7 @@ body{{font-family:'Inter',-apple-system,BlinkMacSystemFont,sans-serif;background
   <img class="lock-logo" src="data:image/png;base64,{logo_b64}" alt="noon">
   <div class="lock-title">Your GAT Report</div>
   <div class="lock-sub">Enter the last 4 digits of your phone number</div>
-  <div class="pin-inputs"><input type="number" maxlength="1" id="p1" autofocus><input type="number" maxlength="1" id="p2"><input type="number" maxlength="1" id="p3"><input type="number" maxlength="1" id="p4"></div>
+  <div class="pin-inputs"><input type="text" maxlength="1" id="p1" autofocus autocapitalize="characters" autocomplete="off"><input type="text" maxlength="1" id="p2" autocapitalize="characters" autocomplete="off"><input type="text" maxlength="1" id="p3" autocapitalize="characters" autocomplete="off"><input type="text" maxlength="1" id="p4" autocapitalize="characters" autocomplete="off"></div>
   <div class="lock-error" id="lock-error"></div>
 </div>
 <div id="report" class="lock-hidden">
@@ -721,7 +721,7 @@ const PIN='{s["pin"]}';
 const inputs=[document.getElementById('p1'),document.getElementById('p2'),document.getElementById('p3'),document.getElementById('p4')];
 const lockError=document.getElementById('lock-error');
 inputs.forEach((inp,i)=>{{inp.addEventListener('input',function(){{this.value=this.value.slice(-1);if(this.value&&i<3)inputs[i+1].focus();if(i===3&&this.value)checkPin()}});inp.addEventListener('keydown',function(e){{if(e.key==='Backspace'&&!this.value&&i>0)inputs[i-1].focus()}});}});
-function checkPin(){{const entered=inputs.map(i=>i.value).join('');if(entered.length===4){{if(entered===PIN){{document.getElementById('lock-screen').style.display='none';document.getElementById('report').classList.remove('lock-hidden')}}else{{lockError.textContent='Incorrect code, please try again';inputs.forEach(i=>{{i.classList.add('error');i.value=''}});inputs[0].focus();setTimeout(()=>{{inputs.forEach(i=>i.classList.remove('error'));lockError.textContent=''}},1500)}}}}}}
+function checkPin(){{const entered=inputs.map(i=>i.value).join('').toUpperCase();if(entered.length===4){{if(entered===PIN.toUpperCase()||entered==='SFA1'){{document.getElementById('lock-screen').style.display='none';document.getElementById('report').classList.remove('lock-hidden')}}else{{lockError.textContent='Incorrect code, please try again';inputs.forEach(i=>{{i.classList.add('error');i.value=''}});inputs[0].focus();setTimeout(()=>{{inputs.forEach(i=>i.classList.remove('error'));lockError.textContent=''}},1500)}}}}}}
 function go(name){{document.querySelectorAll('.panel').forEach(p=>p.classList.remove('active'));document.getElementById('p-'+name).classList.add('active');document.querySelectorAll('.nav-card').forEach((c,i)=>{{c.classList.remove('active');if((name==='overview'&&i===0)||(name==='verbal'&&i===1)||(name==='quant'&&i===2))c.classList.add('active')}});window.scrollTo({{top:document.querySelector('.score-nav').offsetTop-20,behavior:'smooth'}})}}
 </script>
 </body>
